@@ -1,0 +1,4 @@
+Todos:
+	☐	Update f6 to latest version (6.6.3)
+	☐	Ensure all scss matches latest version so compiles successfully
+	☐	Update jquery to 3.5.1 to match official zurb build
