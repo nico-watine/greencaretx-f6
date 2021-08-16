@@ -10221,4 +10221,5 @@ a:not(.button) {
   .services-section .service-option-card {
     background: #fafafa;
     border: 0.0625rem solid #979797;
-    border-radius: 2rem; }
+    border-radius: 2rem;
+    padding: 2.5rem 1rem; }
