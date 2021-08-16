@@ -10215,3 +10215,10 @@ a:not(.button) {
 
 .min-width-25 {
   min-width: 25%; }
+
+.services-section {
+  padding-top: 5rem; }
+  .services-section .service-option-card {
+    background: #fafafa;
+    border: 0.0625rem solid #979797;
+    border-radius: 2rem; }
