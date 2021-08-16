@@ -19,7 +19,7 @@
     },
     "\/_ignores\/codekit-icon.png" : {
       "ft" : 32768,
-      "iS" : 1102541,
+      "iS" : 7156,
       "oA" : 1,
       "oAP" : "\/_ignores\/codekit-icon.png",
       "oF" : 0,
@@ -120,19 +120,6 @@
       "oF" : 0,
       "sC" : 0,
       "tS" : 0
-    },
-    "\/img\/folderHolder.jpg" : {
-      "ft" : 16384,
-      "iS" : 363627,
-      "jF" : 0,
-      "oA" : 1,
-      "oAP" : "\/img\/folderHolder.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
     },
     "\/js\/app-min.js" : {
       "bF" : 0,
