@@ -31,3 +31,29 @@ body-class: index
 	</div>
 </div>
 </section>
+<br>
+<br>
+<section class="services-section">
+	<div class="grid-container">
+		<div class="grid-x grid-padding-x">
+			<div class="cell medium-4">
+				<div class="service-option-card">
+					<h3 class="h3 font-weight-bold">Purchase new plants</h3>
+					<p class="lead">You purchase your new plants from us, along with their decorative containers, and we provide the weekly guaranteed maintenance.</p>
+				</div>
+			</div>
+			<div class="cell medium-4">
+				<div class="service-option-card">
+					<h3 class="h3 font-weight-bold">Lease new plants</h3>
+					<p class="lead">We lease you the plants and their decorative containers, and we provide the weekly guaranteed maintenance.</p>
+				</div>
+			</div>
+			<div class="cell medium-4">
+				<div class="service-option-card">
+					<h3 class="h3 font-weight-bold">Service your existing plants</h3>
+					<p class="lead">If you happen to already have your own plants, we can take over their guaranteed maintenance.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
