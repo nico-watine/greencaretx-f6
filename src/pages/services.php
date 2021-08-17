@@ -10,7 +10,7 @@ body-class: index
 ---
 <section class="services-section">
 	<div class="grid-container service-options-grid">
-		<h2 class="h2 font-weight-bold text-center mb-40 float-center">We offer 3 options to best suit your needs</h2>
+		<h2 class="h2 section-heading font-weight-bold text-center mb-40 float-center">We offer 3 options to best suit your needs</h2>
 		<div class="grid-x grid-padding-x">
 			<div class="cell medium-4">
 				<div class="service-option-card flex-container flex-dir-column">
@@ -43,7 +43,7 @@ body-class: index
 	</div>
 	<div class="container purchase-lease-row">
 		<div class="row">
-			<h3 class="h3 font-weight-bold text-center mb-40 float-center" style="color: #fff;">What is the difference between a purchase and a lease?</h3>
+			<h3 class="h3 section-heading font-weight-bold text-center mb-40 float-center">What is the difference between a purchase and a lease?</h3>
 			<div class="medium-6 columns">
 				<div class="purchase-lease-explanation">
 					<h4 class="h4 font-weight-bold">Purchase plants</h4>

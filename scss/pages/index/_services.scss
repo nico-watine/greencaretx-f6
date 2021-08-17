@@ -7,7 +7,7 @@
 		margin-bottom: rem-calc(20);
 	}
 
-	.h2 {
+	.h2.section-heading {
 		max-width: rem-calc(380);
 		color: #fff;
 	}
@@ -32,8 +32,9 @@
 		}
 	}
 
-	.h3 {
+	.h3.section-heading {
 		max-width: rem-calc(380);
+		color: #fff;
 	}
 
 	.purchase-lease-explanation {
@@ -66,6 +67,18 @@
 
 			p {
 				line-height: 1.4;
+			}
+		}
+
+		.h3.section-heading {
+			max-width: rem-calc(480);
+		}
+
+		.purchase-lease-explanation {
+			min-height: rem-calc(200);
+
+			p {
+				margin: 0;
 			}
 		}
 	}

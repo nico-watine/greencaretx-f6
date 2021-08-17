@@ -10222,7 +10222,7 @@ a:not(.button) {
   background: #fafafa url("/img/background-images/living-wall.jpg") center/cover no-repeat; }
   .services-section .service-options-grid {
     margin-bottom: 1.25rem; }
-  .services-section .h2 {
+  .services-section .h2.section-heading {
     max-width: 23.75rem;
     color: #fff; }
   .services-section .service-option-card {
@@ -10239,8 +10239,9 @@ a:not(.button) {
       height: 3.75rem; }
     .services-section .service-option-card .button {
       background-color: #654111; }
-  .services-section .h3 {
-    max-width: 23.75rem; }
+  .services-section .h3.section-heading {
+    max-width: 23.75rem;
+    color: #fff; }
   .services-section .purchase-lease-explanation {
     max-width: 28.125rem;
     background: #fafafa;
@@ -10262,7 +10263,13 @@ a:not(.button) {
         height: 6.25rem;
         line-height: 1.2; }
       .services-section .service-option-card p {
-        line-height: 1.4; } }
+        line-height: 1.4; }
+    .services-section .h3.section-heading {
+      max-width: 30rem; }
+    .services-section .purchase-lease-explanation {
+      min-height: 12.5rem; }
+      .services-section .purchase-lease-explanation p {
+        margin: 0; } }
 
 @media print, screen and (min-width: 64em) {
   .services-section .h2 {
