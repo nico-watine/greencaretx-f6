@@ -32,6 +32,10 @@
 		}
 	}
 
+	.h3 {
+		max-width: rem-calc(380);
+	}
+
 	.purchase-lease-explanation {
 		max-width: rem-calc(450);
 		background: $gctx-white;
