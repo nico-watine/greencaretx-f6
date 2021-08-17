@@ -10226,4 +10226,5 @@ a:not(.button) {
     height: 28.125rem; }
     .services-section .service-option-card .h3 {
       padding-top: 1.25rem;
-      margin-bottom: 0; }
+      margin-bottom: 0;
+      height: 6.25rem; }
