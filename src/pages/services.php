@@ -32,7 +32,7 @@ body-class: index
 </div>
 </section>
 <br>
-<br>
+<hr>
 <section class="services-section">
 	<div class="grid-container">
 		<div class="grid-x grid-padding-x">
