@@ -10220,7 +10220,8 @@ a:not(.button) {
   padding-top: 3.75rem;
   background: #fafafa url("/img/background-images/living-wall.jpg") center/cover no-repeat; }
   .services-section .h2 {
-    max-width: 23.75rem; }
+    max-width: 23.75rem;
+    color: #fff; }
   .services-section .service-option-card {
     max-width: 22.5rem;
     margin: 0 auto 2.5rem;
