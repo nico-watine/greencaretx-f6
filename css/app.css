@@ -10238,8 +10238,25 @@ a:not(.button) {
 @media print, screen and (min-width: 40em) {
   .services-section {
     padding-top: 5rem; }
+    .services-section .h2 {
+      max-width: 27.5rem; }
     .services-section .service-option-card {
       height: 28.125rem; }
       .services-section .service-option-card .h3 {
-        padding-top: 1.25rem;
-        height: 6.25rem; } }
+        padding-top: 0;
+        height: 6.25rem;
+        line-height: 1.2; }
+      .services-section .service-option-card p {
+        line-height: 1.4; } }
+
+@media print, screen and (min-width: 64em) {
+  .services-section .h2 {
+    max-width: none; }
+  .services-section .service-option-card .h3 {
+    padding-top: 1.25rem;
+    height: 6.25rem;
+    line-height: 1.2;
+    height: auto; }
+  .services-section .service-option-card p {
+    font-size: 1.25rem;
+    line-height: 1.6; } }

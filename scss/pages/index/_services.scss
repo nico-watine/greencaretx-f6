@@ -30,12 +30,43 @@
 	.services-section {
 		padding-top: rem-calc(80);
 
+		.h2 {
+			max-width: rem-calc(440);
+		}
+
 		.service-option-card {
 			height: rem-calc(450);
 
 			.h3 {
+				padding-top: 0;
+				height: rem-calc(100);
+				line-height: 1.2;
+			}
+
+			p {
+				line-height: 1.4;
+			}
+		}
+	}
+}
+
+@include breakpoint(large) {
+	.services-section {
+		.h2 {
+			max-width: none;
+		}
+
+		.service-option-card {
+			.h3 {
 				padding-top: rem-calc(20);
 				height: rem-calc(100);
+				line-height: 1.2;
+				height: auto;
+			}
+
+			p {
+				font-size: rem-calc(20);
+				line-height: 1.6;
 			}
 		}
 	}
