@@ -10217,16 +10217,29 @@ a:not(.button) {
   min-width: 25%; }
 
 .services-section {
-  padding-top: 5rem; }
+  padding-top: 3.75rem; }
+  .services-section .h2 {
+    max-width: 23.75rem; }
   .services-section .service-option-card {
+    max-width: 22.5rem;
+    margin: 0 auto 2.5rem;
     background: #fafafa;
     border: 0.0625rem solid #979797;
     border-radius: 2rem;
     padding: 1.25rem;
-    height: 28.125rem; }
+    height: 20.625rem; }
     .services-section .service-option-card .h3 {
-      padding-top: 1.25rem;
+      padding-top: 0.5rem;
       margin-bottom: 0;
-      height: 6.25rem; }
+      height: 3.75rem; }
     .services-section .service-option-card .button {
       background-color: #654111; }
+
+@media print, screen and (min-width: 40em) {
+  .services-section {
+    padding-top: 5rem; }
+    .services-section .service-option-card {
+      height: 28.125rem; }
+      .services-section .service-option-card .h3 {
+        padding-top: 1.25rem;
+        height: 6.25rem; } }

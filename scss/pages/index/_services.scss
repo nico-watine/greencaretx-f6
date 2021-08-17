@@ -1,21 +1,42 @@
 .services-section {
-	padding-top: rem-calc(80);
+	padding-top: rem-calc(60);
+
+	.h2 {
+		max-width: rem-calc(380);
+	}
 
 	.service-option-card {
+		max-width: rem-calc(360);
+		margin: 0 auto rem-calc(40);
 		background: $gctx-white;
 		border: rem-calc(1) solid #979797;
 		border-radius: rem-calc(32);
 		padding: rem-calc(20);
-		height: rem-calc(450);
+		height: rem-calc(330);
 
 		.h3 {
-			padding-top: rem-calc(20);
+			padding-top: rem-calc(8);
 			margin-bottom: 0;
-			height: rem-calc(100);
+			height: rem-calc(60);
 		}
 
 		.button {
 			background-color: $gctx-brown;
+		}
+	}
+}
+
+@include breakpoint(medium) {
+	.services-section {
+		padding-top: rem-calc(80);
+
+		.service-option-card {
+			height: rem-calc(450);
+
+			.h3 {
+				padding-top: rem-calc(20);
+				height: rem-calc(100);
+			}
 		}
 	}
 }
