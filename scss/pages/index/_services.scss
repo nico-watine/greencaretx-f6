@@ -1,5 +1,6 @@
 .services-section {
 	padding-top: rem-calc(60);
+	padding-bottom: rem-calc(60);
 	background: $gctx-white url("/img/background-images/living-wall.jpg") center/cover no-repeat;
 
 	.h2 {
@@ -31,7 +32,7 @@
 @include breakpoint(medium) {
 	.services-section {
 		padding-top: rem-calc(80);
-
+		padding-bottom: rem-calc(80);
 		.h2 {
 			max-width: rem-calc(440);
 		}
