@@ -1,0 +1,76 @@
+.services-section {
+	padding-top: rem-calc(60);
+	padding-bottom: rem-calc(60);
+	background: $gctx-white url("/img/background-images/living-wall.jpg") center/cover no-repeat;
+
+	.h2 {
+		max-width: rem-calc(380);
+		color: #fff;
+	}
+
+	.service-option-card {
+		max-width: rem-calc(360);
+		margin: 0 auto rem-calc(40);
+		background: $gctx-white;
+		border: rem-calc(1) solid #979797;
+		border-radius: rem-calc(32);
+		padding: rem-calc(20);
+		height: rem-calc(330);
+
+		.h3 {
+			padding-top: rem-calc(8);
+			margin-bottom: 0;
+			height: rem-calc(60);
+		}
+
+		.button {
+			background-color: $gctx-brown;
+		}
+	}
+}
+
+@include breakpoint(medium) {
+	.services-section {
+		padding-top: rem-calc(80);
+		padding-bottom: rem-calc(80);
+		.h2 {
+			max-width: rem-calc(440);
+		}
+
+		.service-option-card {
+			height: rem-calc(450);
+
+			.h3 {
+				padding-top: 0;
+				height: rem-calc(100);
+				line-height: 1.2;
+			}
+
+			p {
+				line-height: 1.4;
+			}
+		}
+	}
+}
+
+@include breakpoint(large) {
+	.services-section {
+		.h2 {
+			max-width: none;
+		}
+
+		.service-option-card {
+			.h3 {
+				padding-top: rem-calc(20);
+				height: rem-calc(100);
+				line-height: 1.2;
+				height: auto;
+			}
+
+			p {
+				font-size: rem-calc(20);
+				line-height: 1.6;
+			}
+		}
+	}
+}
