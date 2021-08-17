@@ -2,7 +2,7 @@
 	padding-top: rem-calc(80);
 
 	.service-option-card {
-		background: #fafafa;
+		background: $gctx-white;
 		border: rem-calc(1) solid #979797;
 		border-radius: rem-calc(32);
 		padding: rem-calc(20);
@@ -12,6 +12,10 @@
 			padding-top: rem-calc(20);
 			margin-bottom: 0;
 			height: rem-calc(100);
+		}
+
+		.button {
+			background-color: $gctx-brown;
 		}
 	}
 }

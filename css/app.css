@@ -10228,3 +10228,5 @@ a:not(.button) {
       padding-top: 1.25rem;
       margin-bottom: 0;
       height: 6.25rem; }
+    .services-section .service-option-card .button {
+      background-color: #654111; }
