@@ -10220,6 +10220,8 @@ a:not(.button) {
   padding-top: 3.75rem;
   padding-bottom: 3.75rem;
   background: #fafafa url("/img/background-images/living-wall.jpg") center/cover no-repeat; }
+  .services-section .service-options-grid {
+    margin-bottom: 1.25rem; }
   .services-section .h2 {
     max-width: 23.75rem;
     color: #fff; }
@@ -10237,6 +10239,13 @@ a:not(.button) {
       height: 3.75rem; }
     .services-section .service-option-card .button {
       background-color: #654111; }
+  .services-section .purchase-lease-explanation {
+    max-width: 28.125rem;
+    background: #fafafa;
+    border: 0.0625rem solid #979797;
+    border-radius: 2rem;
+    padding: 1.25rem;
+    margin: 0 auto 2.5rem; }
 
 @media print, screen and (min-width: 40em) {
   .services-section {
