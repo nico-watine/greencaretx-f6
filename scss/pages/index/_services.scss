@@ -52,7 +52,7 @@
 		padding-top: rem-calc(80);
 		padding-bottom: rem-calc(80);
 
-		.h2 {
+		.h2.section-heading {
 			max-width: rem-calc(440);
 		}
 
@@ -86,7 +86,8 @@
 
 @include breakpoint(large) {
 	.services-section {
-		.h2 {
+		.h2.section-heading,
+		.h3.section-heading {
 			max-width: none;
 		}
 

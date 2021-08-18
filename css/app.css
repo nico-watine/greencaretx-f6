@@ -10254,7 +10254,7 @@ a:not(.button) {
   .services-section {
     padding-top: 5rem;
     padding-bottom: 5rem; }
-    .services-section .h2 {
+    .services-section .h2.section-heading {
       max-width: 27.5rem; }
     .services-section .service-option-card {
       height: 28.125rem; }
@@ -10272,7 +10272,8 @@ a:not(.button) {
         margin: 0; } }
 
 @media print, screen and (min-width: 64em) {
-  .services-section .h2 {
+  .services-section .h2.section-heading,
+  .services-section .h3.section-heading {
     max-width: none; }
   .services-section .service-option-card .h3 {
     padding-top: 1.25rem;
