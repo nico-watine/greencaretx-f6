@@ -10267,9 +10267,14 @@ a:not(.button) {
     .services-section .h3.section-heading {
       max-width: 30rem; }
     .services-section .purchase-lease-explanation {
-      min-height: 12.5rem; }
+      min-height: 12.5rem;
+      max-width: 23.125rem; }
       .services-section .purchase-lease-explanation p {
-        margin: 0; } }
+        margin: 0; }
+    .services-section .purchase-lease-explanation#purchase {
+      float: right; }
+    .services-section .purchase-lease-explanation#lease {
+      float: left; } }
 
 @media print, screen and (min-width: 64em) {
   .services-section .h2.section-heading,

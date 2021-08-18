@@ -76,10 +76,19 @@
 
 		.purchase-lease-explanation {
 			min-height: rem-calc(200);
+			max-width: rem-calc(370);
 
 			p {
 				margin: 0;
 			}
+		}
+
+		.purchase-lease-explanation#purchase {
+			float: right;
+		}
+
+		.purchase-lease-explanation#lease {
+			float: left;
 		}
 	}
 }

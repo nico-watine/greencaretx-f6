@@ -45,13 +45,13 @@ body-class: index
 		<div class="row">
 			<h3 class="h3 section-heading font-weight-bold text-center mb-40 float-center">What is the difference between a purchase and a lease?</h3>
 			<div class="medium-6 columns">
-				<div class="purchase-lease-explanation">
+				<div class="purchase-lease-explanation" id="purchase">
 					<h4 class="h4 font-weight-bold">Purchase plants</h4>
 					<p>When purchasing your plants and containers, the larger up-front cost is offset by a lower monthly fee.</p>
 				</div>
 			</div>
 			<div class="medium-6 columns">
-				<div class="purchase-lease-explanation">
+				<div class="purchase-lease-explanation" id="lease">
 					<h4 class="h4 font-weight-bold">Lease plants</h4>
 					<p>By leasing your plants, the initial expense of a purchase is avoided. The monthly fee of a lease, however, can be up to 50% higher than when purchasing plants.</p>
 				</div>
