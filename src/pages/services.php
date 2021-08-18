@@ -56,6 +56,7 @@ body-class: index
 					<p>By leasing your plants, the initial expense of a purchase is avoided. The monthly fee of a lease, however, can be up to 50% higher than when purchasing plants.</p>
 				</div>
 			</div>
+			<h3 class="h3 section-heading font-weight-bold text-center float-center">You receive the same great service with both options!</h3>
 		</div>
 	</div>
 </section>
