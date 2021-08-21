@@ -15,8 +15,8 @@ body-class: index
 		</div>
 		<div class="large-6 columns prose-column" style="height: 500px; position: relative;">
 			<div class="prose-wrap vertical-center ml-32">
-				<h3 class="separator-left">We’re not in the plant business, <br>serving people.</h3>
-				<h3 class="font-weight-bold font-italic">We are in the people business, <br>servicing plants.</h3>
+				<h3 class="h3 separator-left">We’re not in the plant business, <br>serving people.</h3>
+				<h3 class="h3 font-weight-bold font-italic">We are in the people business, <br>servicing plants.</h3>
 			</div>
 		</div>
 	</div>

@@ -2,6 +2,12 @@
 	@include breakpoint(large) {
 		.prose-column {
 			background: #fafafa url("/img/ornaments/philo-shadow.png") right top/contain no-repeat;
+
+			.prose-wrap {
+				.h3.separator-left {
+					@include separator(left, 4px, 300px, #A0CC39, 8px);
+				}
+			}
 		}
 	}
 }
