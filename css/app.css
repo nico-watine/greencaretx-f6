@@ -10216,6 +10216,10 @@ a:not(.button) {
 .min-width-25 {
   min-width: 25%; }
 
+@media print, screen and (min-width: 64em) {
+  .people-plants-slogan-section .prose-column {
+    background: #fafafa url("/img/ornaments/philo-shadow.png") right top/contain no-repeat; } }
+
 .services-section {
   padding-top: 3.75rem;
   padding-bottom: 3.75rem;

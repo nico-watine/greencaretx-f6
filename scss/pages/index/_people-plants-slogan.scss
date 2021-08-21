@@ -1,5 +1,7 @@
 .people-plants-slogan-section {
 	@include breakpoint(large) {
-		// height: 500px;
+		.prose-column {
+			background: #fafafa url("/img/ornaments/philo-shadow.png") right top/contain no-repeat;
+		}
 	}
 }
