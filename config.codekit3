@@ -17,6 +17,19 @@
       "oAP" : "\/_ignores\/autoprefixer-browser-string.txt",
       "oF" : 0
     },
+    "\/_ignores\/codekit-icon.png" : {
+      "ft" : 32768,
+      "iS" : 7156,
+      "oA" : 1,
+      "oAP" : "\/_ignores\/codekit-icon.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/_ignores\/greencaretx-f6.sublime-project" : {
       "cB" : 0,
       "ft" : 8192,
@@ -679,8 +692,8 @@
     "creationDate" : 502296054,
     "displayValue" : "greencaretx-f6",
     "displayValueWasSetByUser" : 0,
-    "iconImageName" : "brackets-slime",
-    "iconImageWasSetByUser" : 0
+    "iconImageName" : "\/_ignores\/codekit-icon.png",
+    "iconImageWasSetByUser" : 1
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
