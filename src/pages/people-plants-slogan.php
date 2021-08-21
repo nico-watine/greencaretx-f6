@@ -8,3 +8,6 @@ og-image:
 body-id: index
 body-class: index
 ---
+<section class="people-plants-slogan-section">
+
+</section>
