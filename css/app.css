@@ -10222,13 +10222,17 @@ a:not(.button) {
   position: relative; }
   .people-plants-slogan-section .prose-column {
     position: absolute;
-    bottom: 0; }
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.5); }
     .people-plants-slogan-section .prose-column .prose-wrap {
-      width: 18.75rem;
+      width: 23.125rem;
       margin: 0 auto;
       padding: 0.75rem 0; }
-      .people-plants-slogan-section .prose-column .prose-wrap .h3 {
-        font-size: 1.125rem; }
+      @media screen and (max-width: 25em) {
+        .people-plants-slogan-section .prose-column .prose-wrap {
+          width: 18.75rem; }
+          .people-plants-slogan-section .prose-column .prose-wrap .h3 {
+            font-size: 1.125rem; } }
   @media print, screen and (min-width: 64em) {
     .people-plants-slogan-section .media-column img {
       -o-object-fit: cover;

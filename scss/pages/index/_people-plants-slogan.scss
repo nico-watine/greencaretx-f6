@@ -6,15 +6,20 @@
 	.prose-column {
 		position: absolute;
 		bottom: 0;
+		background: rgba(255,255,255,.50);
 
 		.prose-wrap {
-			width: rem-calc(300);
+			@include breakpoint(400 down) {
+				width: rem-calc(300);
+
+				.h3 {
+					font-size: rem-calc(18);
+				}
+			}
+
+			width: rem-calc(370);
 			margin: 0 auto;
 			padding: rem-calc(12 0);
-
-			.h3 {
-				font-size: rem-calc(18);
-			}
 		}
 	}
 
