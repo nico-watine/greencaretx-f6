@@ -47,6 +47,9 @@
 				padding: rem-calc(16);
 				margin-right: rem-calc(24);
 				margin-bottom: rem-calc(24);
+				background: rgba(255,255,255,.50);
+				backdrop-filter: blur(4px) saturate(250%);
+				border-radius: rem-calc(24);
 			}
 		}
 	}
