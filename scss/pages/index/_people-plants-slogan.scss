@@ -55,6 +55,9 @@
 	}
 
 	@include breakpoint(large) {
+		background: transparent;
+		height: auto;
+
 		.media-column {
 			img {
 				object-fit: cover;
@@ -71,6 +74,8 @@
 			.prose-wrap {
 				@include vertical-center;
 				margin-left: rem-calc(32);
+				background: transparent;
+				backdrop-filter: none;
 
 				.h3.separator-left {
 					@include separator(left, 4px, 300px, #a0cc39, 8px);
