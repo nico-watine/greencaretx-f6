@@ -10217,7 +10217,7 @@ a:not(.button) {
   min-width: 25%; }
 
 .people-plants-slogan-section {
-  background: #fafafa url("/img/background-images/auditorium.jpg") center top/cover no-repeat;
+  background: #fafafa url("/img/background-images/auditorium.jpg") center/cover no-repeat;
   height: 31.25rem;
   position: relative; }
   @media screen and (min-width: 25.0625em) {
