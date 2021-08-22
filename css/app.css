@@ -10223,7 +10223,9 @@ a:not(.button) {
   .people-plants-slogan-section .prose-column {
     position: absolute;
     bottom: 0;
-    background: rgba(255, 255, 255, 0.5); }
+    background: rgba(255, 255, 255, 0.5);
+    -webkit-backdrop-filter: blur(4px);
+            backdrop-filter: blur(4px); }
     .people-plants-slogan-section .prose-column .prose-wrap {
       width: 23.125rem;
       margin: 0 auto;
