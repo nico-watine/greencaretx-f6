@@ -10301,7 +10301,8 @@ a:not(.button) {
         -o-object-fit: cover;
            object-fit: cover;
         height: 500px;
-        width: 100%; }
+        width: 100%;
+        border-radius: 0 0 50px 0; }
       .people-plants-slogan-section .prose-column {
         background: #fafafa url("/img/ornaments/philo-shadow.png") right top/contain no-repeat;
         height: 500px;
