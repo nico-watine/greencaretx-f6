@@ -10246,7 +10246,7 @@ a:not(.button) {
           clear: both; }
         .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left::after {
           position: relative !important;
-          width: 280px;
+          width: 260px;
           border-bottom: 4px solid #fff;
           margin: 8px auto 0;
           margin-left: 0 !important; }

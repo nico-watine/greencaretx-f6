@@ -15,7 +15,7 @@
 			padding: rem-calc(12 0);
 
 			.h3.separator-left {
-				@include separator(left, 4px, 280px, #fff, 8px);
+				@include separator(left, 4px, 260px, #fff, 8px);
 			}
 
 			@include breakpoint(400 down) {
