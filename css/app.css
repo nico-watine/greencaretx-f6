@@ -10230,11 +10230,51 @@ a:not(.button) {
       width: 23.125rem;
       margin: 0 auto;
       padding: 0.75rem 0; }
+      .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left {
+        text-align: left !important; }
+        .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left::before, .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left::after {
+          display: table;
+          content: ' ';
+          -webkit-flex-basis: 0;
+              -ms-flex-preferred-size: 0;
+                  flex-basis: 0;
+          -webkit-box-ordinal-group: 2;
+          -webkit-order: 1;
+              -ms-flex-order: 1;
+                  order: 1; }
+        .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left::after {
+          clear: both; }
+        .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left::after {
+          position: relative !important;
+          width: 280px;
+          border-bottom: 4px solid #fff;
+          margin: 8px auto 0;
+          margin-left: 0 !important; }
       @media screen and (max-width: 25em) {
         .people-plants-slogan-section .prose-column .prose-wrap {
           width: 18.75rem; }
           .people-plants-slogan-section .prose-column .prose-wrap .h3 {
-            font-size: 1.125rem; } }
+            font-size: 1.125rem; }
+          .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left {
+            text-align: left !important; }
+            .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left::before, .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left::after {
+              display: table;
+              content: ' ';
+              -webkit-flex-basis: 0;
+                  -ms-flex-preferred-size: 0;
+                      flex-basis: 0;
+              -webkit-box-ordinal-group: 2;
+              -webkit-order: 1;
+                  -ms-flex-order: 1;
+                      order: 1; }
+            .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left::after {
+              clear: both; }
+            .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left::after {
+              position: relative !important;
+              width: 220px;
+              border-bottom: 4px solid #fff;
+              margin: 8px auto 0;
+              margin-left: 0 !important; } }
   @media print, screen and (min-width: 64em) {
     .people-plants-slogan-section .media-column img {
       -o-object-fit: cover;
