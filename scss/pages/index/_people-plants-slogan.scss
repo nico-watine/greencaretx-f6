@@ -7,7 +7,7 @@
 		position: absolute;
 		bottom: 0;
 		background: rgba(255,255,255,.50);
-		backdrop-filter: blur(4px);
+		backdrop-filter: blur(4px) saturate(250%);
 
 		.prose-wrap {
 			@include breakpoint(400 down) {
