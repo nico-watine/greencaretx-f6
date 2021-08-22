@@ -10216,6 +10216,126 @@ a:not(.button) {
 .min-width-25 {
   min-width: 25%; }
 
+.people-plants-slogan-section {
+  background: #fafafa url("/img/background-images/auditorium.jpg") center/cover no-repeat;
+  height: 31.25rem;
+  position: relative; }
+  @media screen and (min-width: 25.0625em) {
+    .people-plants-slogan-section {
+      height: 36.25rem; } }
+  .people-plants-slogan-section .prose-column {
+    position: absolute;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.5);
+    -webkit-backdrop-filter: blur(4px) saturate(250%);
+            backdrop-filter: blur(4px) saturate(250%); }
+    .people-plants-slogan-section .prose-column .prose-wrap {
+      width: 23.125rem;
+      margin: 0 auto;
+      padding: 1.5rem 0; }
+      .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left {
+        text-align: left !important; }
+        .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left::before, .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left::after {
+          display: table;
+          content: ' ';
+          -webkit-flex-basis: 0;
+              -ms-flex-preferred-size: 0;
+                  flex-basis: 0;
+          -webkit-box-ordinal-group: 2;
+          -webkit-order: 1;
+              -ms-flex-order: 1;
+                  order: 1; }
+        .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left::after {
+          clear: both; }
+        .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left::after {
+          position: relative !important;
+          width: 260px;
+          border-bottom: 4px solid #fff;
+          margin: 8px auto 0;
+          margin-left: 0 !important; }
+      @media screen and (max-width: 25em) {
+        .people-plants-slogan-section .prose-column .prose-wrap {
+          width: 18.75rem;
+          padding: 0.75rem 0; }
+          .people-plants-slogan-section .prose-column .prose-wrap .h3 {
+            font-size: 1.125rem; }
+          .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left {
+            text-align: left !important; }
+            .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left::before, .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left::after {
+              display: table;
+              content: ' ';
+              -webkit-flex-basis: 0;
+                  -ms-flex-preferred-size: 0;
+                      flex-basis: 0;
+              -webkit-box-ordinal-group: 2;
+              -webkit-order: 1;
+                  -ms-flex-order: 1;
+                      order: 1; }
+            .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left::after {
+              clear: both; }
+            .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left::after {
+              position: relative !important;
+              width: 220px;
+              border-bottom: 4px solid #fff;
+              margin: 8px auto 0;
+              margin-left: 0 !important; } }
+  @media print, screen and (min-width: 40em) {
+    .people-plants-slogan-section .prose-column {
+      -webkit-backdrop-filter: none;
+              backdrop-filter: none;
+      background: transparent; }
+      .people-plants-slogan-section .prose-column .prose-wrap {
+        width: 31.25rem;
+        padding: 1rem;
+        margin-right: 1.5rem;
+        margin-bottom: 1.5rem;
+        background: rgba(255, 255, 255, 0.5);
+        -webkit-backdrop-filter: blur(4px) saturate(250%);
+                backdrop-filter: blur(4px) saturate(250%);
+        border-radius: 1.5rem; } }
+  @media print, screen and (min-width: 64em) {
+    .people-plants-slogan-section {
+      background: transparent;
+      height: auto; }
+      .people-plants-slogan-section .media-column img {
+        -o-object-fit: cover;
+           object-fit: cover;
+        height: 500px;
+        width: 100%; }
+      .people-plants-slogan-section .prose-column {
+        background: #fafafa url("/img/ornaments/philo-shadow.png") right top/contain no-repeat;
+        height: 500px;
+        position: relative; }
+        .people-plants-slogan-section .prose-column .prose-wrap {
+          position: absolute;
+          top: 50%;
+          -webkit-transform: translateY(-50%);
+              -ms-transform: translateY(-50%);
+                  transform: translateY(-50%);
+          margin-left: 2rem;
+          background: transparent;
+          -webkit-backdrop-filter: none;
+                  backdrop-filter: none; }
+          .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left {
+            text-align: left !important; }
+            .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left::before, .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left::after {
+              display: table;
+              content: ' ';
+              -webkit-flex-basis: 0;
+                  -ms-flex-preferred-size: 0;
+                      flex-basis: 0;
+              -webkit-box-ordinal-group: 2;
+              -webkit-order: 1;
+                  -ms-flex-order: 1;
+                      order: 1; }
+            .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left::after {
+              clear: both; }
+            .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left::after {
+              position: relative !important;
+              width: 300px;
+              border-bottom: 4px solid #a0cc39;
+              margin: 8px auto 0;
+              margin-left: 0 !important; } }
 .services-section {
   padding-top: 3.75rem;
   padding-bottom: 3.75rem;

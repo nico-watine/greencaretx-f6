@@ -1,0 +1,86 @@
+.people-plants-slogan-section {
+	background: #fafafa url('/img/background-images/auditorium.jpg') center/cover no-repeat;
+	height: rem-calc(500);
+	position: relative;
+
+	@include breakpoint(401) {
+		height: rem-calc(580);
+	}
+
+	.prose-column {
+		position: absolute;
+		bottom: 0;
+		background: rgba(255,255,255,.50);
+		backdrop-filter: blur(4px) saturate(250%);
+
+		.prose-wrap {
+			width: rem-calc(370);
+			margin: 0 auto;
+			padding: rem-calc(24 0);
+
+			.h3.separator-left {
+				@include separator(left, 4px, 260px, #fff, 8px);
+			}
+
+			@include breakpoint(400 down) {
+				width: rem-calc(300);
+				padding: rem-calc(12 0);
+
+				.h3 {
+					font-size: rem-calc(18);
+				}
+
+				.h3.separator-left {
+					@include separator(left, 4px, 220px, #fff, 8px);
+				}
+			}
+		}
+	}
+
+	@include breakpoint(medium) {
+		.prose-column {
+			backdrop-filter: none;
+			background: transparent;
+
+			.prose-wrap {
+				width: rem-calc(500);
+				padding: rem-calc(16);
+				margin-right: rem-calc(24);
+				margin-bottom: rem-calc(24);
+				background: rgba(255,255,255,.50);
+				backdrop-filter: blur(4px) saturate(250%);
+				border-radius: rem-calc(24);
+			}
+		}
+	}
+
+	@include breakpoint(large) {
+		background: transparent;
+		height: auto;
+
+		.media-column {
+			img {
+				object-fit: cover;
+				height: 500px;
+				width: 100%;
+			}
+		}
+
+		.prose-column {
+			background: #fafafa url('/img/ornaments/philo-shadow.png') right top/contain no-repeat;
+			height: 500px;
+			position: relative;
+
+			.prose-wrap {
+				@include vertical-center;
+				margin-left: rem-calc(32);
+				background: transparent;
+				backdrop-filter: none;
+
+				.h3.separator-left {
+					@include separator(left, 4px, 300px, #a0cc39, 8px);
+				}
+			}
+		}
+	}
+}

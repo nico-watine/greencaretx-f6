@@ -121,6 +121,19 @@
       "sC" : 0,
       "tS" : 0
     },
+    "\/img\/background-images\/auditorium.jpg" : {
+      "ft" : 16384,
+      "iS" : 2363053,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/background-images\/auditorium.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/background-images\/living-wall.jpg" : {
       "ft" : 16384,
       "iS" : 110053,
@@ -130,6 +143,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/ornaments\/philo-shadow.png" : {
+      "ft" : 32768,
+      "iS" : 2924008,
+      "oA" : 1,
+      "oAP" : "\/img\/ornaments\/philo-shadow.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -626,6 +652,20 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/scss\/pages\/css\/_index.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/pages\/index\/_people-plants-slogan.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/pages\/css\/_people-plants-slogan.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
