@@ -12,7 +12,7 @@
 		.prose-wrap {
 			width: rem-calc(370);
 			margin: 0 auto;
-			padding: rem-calc(12 0);
+			padding: rem-calc(24 0);
 
 			.h3.separator-left {
 				@include separator(left, 4px, 260px, #fff, 8px);
@@ -20,6 +20,7 @@
 
 			@include breakpoint(400 down) {
 				width: rem-calc(300);
+				padding: rem-calc(12 0);
 
 				.h3 {
 					font-size: rem-calc(18);

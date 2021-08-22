@@ -10229,7 +10229,7 @@ a:not(.button) {
     .people-plants-slogan-section .prose-column .prose-wrap {
       width: 23.125rem;
       margin: 0 auto;
-      padding: 0.75rem 0; }
+      padding: 1.5rem 0; }
       .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left {
         text-align: left !important; }
         .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left::before, .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left::after {
@@ -10252,7 +10252,8 @@ a:not(.button) {
           margin-left: 0 !important; }
       @media screen and (max-width: 25em) {
         .people-plants-slogan-section .prose-column .prose-wrap {
-          width: 18.75rem; }
+          width: 18.75rem;
+          padding: 0.75rem 0; }
           .people-plants-slogan-section .prose-column .prose-wrap .h3 {
             font-size: 1.125rem; }
           .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left {
