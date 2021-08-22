@@ -1,7 +1,11 @@
 .people-plants-slogan-section {
 	background: #fafafa url('/img/background-images/auditorium.jpg') center top/cover no-repeat;
-	height: 500px;
+	height: rem-calc(500);
 	position: relative;
+
+	@include breakpoint(401) {
+		height: rem-calc(580);
+	}
 
 	.prose-column {
 		position: absolute;

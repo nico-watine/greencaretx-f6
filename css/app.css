@@ -10218,8 +10218,11 @@ a:not(.button) {
 
 .people-plants-slogan-section {
   background: #fafafa url("/img/background-images/auditorium.jpg") center top/cover no-repeat;
-  height: 500px;
+  height: 31.25rem;
   position: relative; }
+  @media screen and (min-width: 25.0625em) {
+    .people-plants-slogan-section {
+      height: 36.25rem; } }
   .people-plants-slogan-section .prose-column {
     position: absolute;
     bottom: 0;
