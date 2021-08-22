@@ -10279,6 +10279,16 @@ a:not(.button) {
               border-bottom: 4px solid #fff;
               margin: 8px auto 0;
               margin-left: 0 !important; } }
+  @media print, screen and (min-width: 40em) {
+    .people-plants-slogan-section .prose-column {
+      -webkit-backdrop-filter: none;
+              backdrop-filter: none;
+      background: transparent; }
+      .people-plants-slogan-section .prose-column .prose-wrap {
+        width: 31.25rem;
+        padding: 1rem;
+        margin-right: 1.5rem;
+        margin-bottom: 1.5rem; } }
   @media print, screen and (min-width: 64em) {
     .people-plants-slogan-section .media-column img {
       -o-object-fit: cover;

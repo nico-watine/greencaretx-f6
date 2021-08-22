@@ -37,6 +37,20 @@
 		}
 	}
 
+	@include breakpoint(medium) {
+		.prose-column {
+			backdrop-filter: none;
+			background: transparent;
+
+			.prose-wrap {
+				width: rem-calc(500);
+				padding: rem-calc(16);
+				margin-right: rem-calc(24);
+				margin-bottom: rem-calc(24);
+			}
+		}
+	}
+
 	@include breakpoint(large) {
 		.media-column {
 			img {
