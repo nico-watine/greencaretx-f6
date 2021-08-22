@@ -1,4 +1,23 @@
 .people-plants-slogan-section {
+	background: #fafafa url('/img/background-images/auditorium.jpg') center top/cover no-repeat;
+	height: 500px;
+	position: relative;
+
+	.prose-column {
+		position: absolute;
+		bottom: 0;
+
+		.prose-wrap {
+			width: rem-calc(300);
+			margin: 0 auto;
+			padding: rem-calc(12 0);
+
+			.h3 {
+				font-size: rem-calc(18);
+			}
+		}
+	}
+
 	@include breakpoint(large) {
 		.media-column {
 			img {
@@ -10,8 +29,13 @@
 
 		.prose-column {
 			background: #fafafa url('/img/ornaments/philo-shadow.png') right top/contain no-repeat;
+			height: 500px;
+			position: relative;
 
 			.prose-wrap {
+				@include vertical-center;
+				margin-left: rem-calc(32);
+
 				.h3.separator-left {
 					@include separator(left, 4px, 300px, #a0cc39, 8px);
 				}
