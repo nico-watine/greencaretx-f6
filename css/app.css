@@ -10217,6 +10217,11 @@ a:not(.button) {
   min-width: 25%; }
 
 @media print, screen and (min-width: 64em) {
+  .people-plants-slogan-section .media-column img {
+    -o-object-fit: cover;
+       object-fit: cover;
+    height: 500px;
+    width: 100%; }
   .people-plants-slogan-section .prose-column {
     background: #fafafa url("/img/ornaments/philo-shadow.png") right top/contain no-repeat; }
     .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left {
@@ -10236,7 +10241,7 @@ a:not(.button) {
       .people-plants-slogan-section .prose-column .prose-wrap .h3.separator-left::after {
         position: relative !important;
         width: 300px;
-        border-bottom: 4px solid #A0CC39;
+        border-bottom: 4px solid #a0cc39;
         margin: 8px auto 0;
         margin-left: 0 !important; } }
 

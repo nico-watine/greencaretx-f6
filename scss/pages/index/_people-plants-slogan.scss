@@ -1,11 +1,19 @@
 .people-plants-slogan-section {
 	@include breakpoint(large) {
+		.media-column {
+			img {
+				object-fit: cover;
+				height: 500px;
+				width: 100%;
+			}
+		}
+
 		.prose-column {
-			background: #fafafa url("/img/ornaments/philo-shadow.png") right top/contain no-repeat;
+			background: #fafafa url('/img/ornaments/philo-shadow.png') right top/contain no-repeat;
 
 			.prose-wrap {
 				.h3.separator-left {
-					@include separator(left, 4px, 300px, #A0CC39, 8px);
+					@include separator(left, 4px, 300px, #a0cc39, 8px);
 				}
 			}
 		}
