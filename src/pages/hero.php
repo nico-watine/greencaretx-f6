@@ -29,7 +29,9 @@ body-class: index
 		<p class="h4" style="max-width: 540px;">As a family-owned business, providing top-tier plant service to ensure your complete satisfaction is our highest priority.</p>
 	</div>
 
-	<div class="bottom-content-section" data-magellan data-threshold="0">
+	<div class="bottom-content-section text-center" data-magellan data-threshold="0">
+		<a href="#" class="cta text-white button hollow border-rounded font-weight-bold text-uppercase">Schedule your free consultation</a>
+		<br>
 		<a href="#main-content-section"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M24 12c0-6.627-5.373-12-12-12s-12 5.373-12 12 5.373 12 12 12 12-5.373 12-12zm-18.005-1.568l1.415-1.414 4.59 4.574 4.579-4.574 1.416 1.414-5.995 5.988-6.005-5.988z"/></svg></a>
 	</div>
 

@@ -23,6 +23,11 @@ $hero-full-screen-text-color: $white;
 	.bottom-content-section {
 		padding: 1rem;
 
+		a.cta {
+			border-color: #fff;
+			padding: rem-calc(16 24);
+		}
+
 		svg {
 			height: rem-calc(60);
 			width: rem-calc(60);
@@ -53,4 +58,3 @@ $hero-full-screen-text-color: $white;
 		}
 	}
 }
-
