@@ -11,7 +11,7 @@ body-class: index
 <div class="hero-full-screen">
 
 	<div class="top-content-section">
-		<!-- <div class="top-bar">
+		<div class="top-bar">
 			<div class="top-bar-left">
 				<ul class="menu">
 					<li class="menu-text"><img src="http://placehold.it/75x30" alt="logo"></li>
@@ -20,7 +20,7 @@ body-class: index
 					<li><a href="#">Three</a></li>
 				</ul>
 			</div>
-		</div> -->
+		</div>
 	</div>
 
 	<div class="middle-content-section">
