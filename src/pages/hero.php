@@ -14,7 +14,7 @@ body-class: index
 		<div class="top-bar">
 			<div class="top-bar-left">
 				<ul class="menu">
-					<li class="menu-text"><img src="https://placehold.it/75x30" alt="logo"></li>
+					<li class="menu-text"><img src="http://placehold.it/75x30" alt="logo"></li>
 					<li><a href="#">One</a></li>
 					<li><a href="#">Two</a></li>
 					<li><a href="#">Three</a></li>
@@ -24,9 +24,9 @@ body-class: index
 	</div>
 
 	<div class="middle-content-section">
-		<h1>Super Compelling Headline</h1>
-		<button class="button large">Button</button>
-		<button class="button large">Button</button>
+		<h2 class="h2 m-0" style="line-height: 1.2;">Servicing Plants</h2>
+		<h1 class="h1 font-weight-bold" style="line-height: 1.2; font-size: 60px; margin-bottom: 60px;">Serving People</h1>
+		<p class="h4" style="max-width: 540px;">As a family-owned business, providing top-tier plant service to ensure your complete satisfaction is our highest priority.</p>
 	</div>
 
 	<div class="bottom-content-section" data-magellan data-threshold="0">
