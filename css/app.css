@@ -10250,8 +10250,7 @@ a:not(.button) {
       padding: 1rem 1.5rem; }
     .hero-full-screen .bottom-content-section svg {
       height: 3.75rem;
-      width: 3.75rem;
-      fill: #fefefe; }
+      width: 3.75rem; }
   .hero-full-screen .top-bar {
     background: transparent; }
     .hero-full-screen .top-bar .menu {
