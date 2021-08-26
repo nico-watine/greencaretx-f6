@@ -10235,9 +10235,7 @@ a:not(.button) {
   -webkit-justify-content: space-between;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  background: #000 url("https://images.pexels.com/photos/378273/pexels-photo-378273.jpeg") center center no-repeat;
-  -webkit-background-size: cover;
-          background-size: cover; }
+  background: #000 url("https://images.pexels.com/photos/378273/pexels-photo-378273.jpeg") center/cover no-repeat; }
   .hero-full-screen .middle-content-section {
     text-align: center;
     color: #fefefe; }
