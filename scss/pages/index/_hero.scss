@@ -10,6 +10,7 @@ $hero-full-screen-text-color: $white;
 	rgba(90,90,90,.70),
 	rgba(90,90,90,.70)
 	), url('https://images.pexels.com/photos/378273/pexels-photo-378273.jpeg') center/cover no-repeat;
+	mix-blend-mode: multiply;
 
 	.middle-content-section {
 		text-align: center;

@@ -10237,7 +10237,8 @@ a:not(.button) {
           justify-content: space-between;
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(90, 90, 90, 0.7)), to(rgba(90, 90, 90, 0.7))), url("https://images.pexels.com/photos/378273/pexels-photo-378273.jpeg") center/cover no-repeat;
   background: -webkit-linear-gradient(rgba(90, 90, 90, 0.7), rgba(90, 90, 90, 0.7)), url("https://images.pexels.com/photos/378273/pexels-photo-378273.jpeg") center/cover no-repeat;
-  background: linear-gradient(rgba(90, 90, 90, 0.7), rgba(90, 90, 90, 0.7)), url("https://images.pexels.com/photos/378273/pexels-photo-378273.jpeg") center/cover no-repeat; }
+  background: linear-gradient(rgba(90, 90, 90, 0.7), rgba(90, 90, 90, 0.7)), url("https://images.pexels.com/photos/378273/pexels-photo-378273.jpeg") center/cover no-repeat;
+  mix-blend-mode: multiply; }
   .hero-full-screen .middle-content-section {
     text-align: center;
     color: #fefefe; }
