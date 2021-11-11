@@ -10241,7 +10241,7 @@ a:not(.button) {
   mix-blend-mode: multiply; }
   .hero-full-screen .middle-content-section {
     text-align: center;
-    color: #fefefe; }
+    color: #fff; }
   .hero-full-screen .top-content-section {
     width: 100%; }
   .hero-full-screen .bottom-content-section {
@@ -10257,7 +10257,7 @@ a:not(.button) {
     .hero-full-screen .top-bar .menu {
       background: transparent; }
     .hero-full-screen .top-bar .menu-text {
-      color: #fefefe; }
+      color: #fff; }
     .hero-full-screen .top-bar .menu li {
       display: -webkit-box;
       display: -webkit-flex;
@@ -10268,7 +10268,7 @@ a:not(.button) {
           -ms-flex-align: center;
               align-items: center; }
     .hero-full-screen .top-bar .menu a {
-      color: #fefefe;
+      color: #fff;
       font-weight: bold; }
 
 .people-plants-slogan-section {

@@ -15,9 +15,8 @@ body-class: index
 			<div class="top-bar-left">
 				<ul class="menu">
 					<li class="menu-text"><img src="/img/logo/greencaretx-logo.svg" alt="logo" style="width: 100px;"></li>
-					<!-- <li><a href="#">One</a></li> -->
-					<!-- <li><a href="#">Two</a></li> -->
-					<!-- <li><a href="#">Three</a></li> -->
+					<li><a href="#">One</a></li>
+					<li><a href="#">Two</a></li>
 				</ul>
 			</div>
 		</div>

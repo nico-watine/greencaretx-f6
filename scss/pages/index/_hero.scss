@@ -1,5 +1,3 @@
-$hero-full-screen-text-color: $white;
-
 .hero-full-screen {
 	height: 100vh;
 	display: flex;
@@ -14,7 +12,7 @@ $hero-full-screen-text-color: $white;
 
 	.middle-content-section {
 		text-align: center;
-		color: $hero-full-screen-text-color;
+		color: #fff;
 	}
 
 	.top-content-section {
@@ -44,7 +42,7 @@ $hero-full-screen-text-color: $white;
 		}
 
 		.menu-text {
-			color: $hero-full-screen-text-color;
+			color: #fff;
 		}
 
 		.menu li {
@@ -53,7 +51,7 @@ $hero-full-screen-text-color: $white;
 		}
 
 		.menu a {
-			color: $hero-full-screen-text-color;
+			color: #fff;
 			font-weight: bold;
 		}
 	}
