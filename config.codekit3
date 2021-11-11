@@ -134,6 +134,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/background-images\/Ficus-Lyrata-Detail.png" : {
+      "ft" : 32768,
+      "iS" : 1103249,
+      "oA" : 1,
+      "oAP" : "\/img\/background-images\/Ficus-Lyrata-Detail.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/background-images\/living-wall.jpg" : {
       "ft" : 16384,
       "iS" : 110053,
