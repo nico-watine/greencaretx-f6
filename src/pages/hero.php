@@ -22,12 +22,12 @@ body-class: index
 		</div>
 	</div>
 
-	<div class="middle-content-section">
-		<div class="prose-wrap text-center">
-			<h1 class="headline" style="line-height: 1.2; margin-bottom: 60px;">Servicing Plants <br><span class="font-weight-bold" style="font-size: 60px;">Serving People</span></h1>
+	<!-- <div class="middle-content-section"> -->
+		<div class="prose-wrap">
+			<h1 class="headline" style="margin-bottom: 60px;">Servicing Plants <br><span>Serving People</span></h1>
 			<h2 class="mission-statement" style="max-width: 540px;">As a family-owned business, providing top-tier plant service to ensure your complete satisfaction is our highest priority.</h2>
 		</div>
-	</div>
+	<!-- </div> -->
 
 	<div class="bottom-content-section text-center" data-magellan data-threshold="0">
 		<a href="#" class="cta text-white button hollow border-rounded font-weight-bold text-uppercase">Schedule your free consultation</a>

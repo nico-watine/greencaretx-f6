@@ -10,13 +10,28 @@
 	), url('/img/background-images/Ficus-Lyrata-Detail.png') center/cover no-repeat;
 	background-blend-mode: multiply;
 
-	.middle-content-section {
-		text-align: center;
-		color: #fff;
-	}
 
 	.top-content-section {
 		width: 100%;
+	}
+
+	// .middle-content-section {
+	// 	color: #fff;
+	// }
+
+	.prose-wrap {
+		color: #fff;
+		text-align: center;
+
+		.headline {
+			font-size: rem-calc(26);
+			line-height: 1.2;
+
+			span {
+				font-size: rem-calc(32);
+				font-weight: bold;
+			}
+		}
 	}
 
 	.bottom-content-section {
