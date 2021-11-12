@@ -10245,6 +10245,9 @@ ol.list-upper-roman {
       .hero-full-screen .prose-wrap .headline span {
         font-size: 2rem;
         font-weight: bold; }
+    .hero-full-screen .prose-wrap .mission-statement {
+      font-size: 1rem;
+      padding: 0 1rem; }
   .hero-full-screen .bottom-content-section {
     padding: 1rem; }
     .hero-full-screen .bottom-content-section a.cta {
