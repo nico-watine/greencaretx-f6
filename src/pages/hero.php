@@ -23,8 +23,10 @@ body-class: index
 	</div>
 
 	<div class="middle-content-section">
-		<h1 style="line-height: 1.2; margin-bottom: 60px;"><span class="h2">Servicing Plants</span> <br><span class="font-weight-bold" style="font-size: 60px;">Serving People</span></h1>
-		<h2 class="h4" style="max-width: 540px;">As a family-owned business, providing top-tier plant service to ensure your complete satisfaction is our highest priority.</h2>
+		<div class="prose-wrap text-center">
+			<h1 class="headline" style="line-height: 1.2; margin-bottom: 60px;">Servicing Plants <br><span class="font-weight-bold" style="font-size: 60px;">Serving People</span></h1>
+			<h2 class="mission-statement" style="max-width: 540px;">As a family-owned business, providing top-tier plant service to ensure your complete satisfaction is our highest priority.</h2>
+		</div>
 	</div>
 
 	<div class="bottom-content-section text-center" data-magellan data-threshold="0">
