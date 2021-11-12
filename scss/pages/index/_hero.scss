@@ -26,6 +26,7 @@
 		.headline {
 			font-size: rem-calc(26);
 			line-height: 1.2;
+			text-shadow: 0 0 rem-calc(11) rgba(0,0,0,.50);
 
 			span {
 				font-size: rem-calc(32);
@@ -36,6 +37,7 @@
 		.mission-statement {
 			font-size: rem-calc(16);
 			padding: 0 rem-calc(16);
+			text-shadow: 0 0 rem-calc(11) rgba(0,0,0,.50);
 		}
 	}
 

@@ -10241,13 +10241,15 @@ ol.list-upper-roman {
     text-align: center; }
     .hero-full-screen .prose-wrap .headline {
       font-size: 1.625rem;
-      line-height: 1.2; }
+      line-height: 1.2;
+      text-shadow: 0 0 0.6875rem rgba(0, 0, 0, 0.5); }
       .hero-full-screen .prose-wrap .headline span {
         font-size: 2rem;
         font-weight: bold; }
     .hero-full-screen .prose-wrap .mission-statement {
       font-size: 1rem;
-      padding: 0 1rem; }
+      padding: 0 1rem;
+      text-shadow: 0 0 0.6875rem rgba(0, 0, 0, 0.5); }
   .hero-full-screen .bottom-content-section {
     padding: 1rem; }
     .hero-full-screen .bottom-content-section a.cta {
