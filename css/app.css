@@ -10233,7 +10233,8 @@ ol.list-upper-roman {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(90, 90, 90, 0.7)), to(rgba(90, 90, 90, 0.7))), url("/img/background-images/Ficus-Lyrata-Detail.png") center/cover no-repeat;
   background: -webkit-linear-gradient(rgba(90, 90, 90, 0.7), rgba(90, 90, 90, 0.7)), url("/img/background-images/Ficus-Lyrata-Detail.png") center/cover no-repeat;
   background: linear-gradient(rgba(90, 90, 90, 0.7), rgba(90, 90, 90, 0.7)), url("/img/background-images/Ficus-Lyrata-Detail.png") center/cover no-repeat;
-  background-blend-mode: multiply; }
+  background-blend-mode: multiply;
+  min-height: 31.25rem; }
   .hero-full-screen .top-content-section {
     width: 100%; }
   .hero-full-screen .prose-wrap {
@@ -10242,13 +10243,13 @@ ol.list-upper-roman {
     .hero-full-screen .prose-wrap .headline {
       font-size: 1.625rem;
       line-height: 1.2;
-      text-shadow: 0 0 0.6875rem rgba(0, 0, 0, 0.5); }
+      text-shadow: 0 0 0.6875rem rgba(0, 0, 0, 0.5);
+      margin-bottom: 2.5rem; }
       .hero-full-screen .prose-wrap .headline span {
         font-size: 2rem;
         font-weight: bold; }
     .hero-full-screen .prose-wrap .mission-statement {
       font-size: 1rem;
-      padding: 0 1rem;
       text-shadow: 0 0 0.6875rem rgba(0, 0, 0, 0.5);
       max-width: 18.125rem; }
   .hero-full-screen .bottom-content-section {

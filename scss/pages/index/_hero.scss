@@ -10,6 +10,7 @@
 	), url('/img/background-images/Ficus-Lyrata-Detail.png') center/cover no-repeat;
 	background-blend-mode: multiply;
 
+	min-height: rem-calc(500);
 
 	.top-content-section {
 		width: 100%;
@@ -27,6 +28,7 @@
 			font-size: rem-calc(26);
 			line-height: 1.2;
 			text-shadow: 0 0 rem-calc(11) rgba(0,0,0,.50);
+			margin-bottom: rem-calc(40);
 
 			span {
 				font-size: rem-calc(32);
@@ -36,7 +38,6 @@
 
 		.mission-statement {
 			font-size: rem-calc(16);
-			padding: 0 rem-calc(16);
 			text-shadow: 0 0 rem-calc(11) rgba(0,0,0,.50);
 			max-width: rem-calc(290);
 		}
