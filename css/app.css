@@ -10251,7 +10251,7 @@ ol.list-upper-roman {
       font-size: 1rem;
       text-shadow: 0 0 0.6875rem rgba(0, 0, 0, 0.5);
       max-width: 18.125rem; }
-    @media screen and (min-width: 28.75em) {
+    @media screen and (min-width: 25.625em) {
       .hero-full-screen .prose-wrap .headline {
         font-size: 2.25rem; }
         .hero-full-screen .prose-wrap .headline span {

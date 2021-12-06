@@ -37,7 +37,7 @@
 			max-width: rem-calc(290);
 		}
 
-		@include breakpoint(460) {
+		@include breakpoint(410) {
 			.headline {
 				font-size: rem-calc(36);
 
