@@ -25,7 +25,7 @@ body-class: index
 	<!-- <div class="middle-content-section"> -->
 		<div class="prose-wrap">
 			<h1 class="headline" style="margin-bottom: 60px;">Servicing Plants <br><span>Serving People</span></h1>
-			<h2 class="mission-statement" style="max-width: 540px;">As a family-owned business, providing top-tier plant service to ensure your complete satisfaction is our highest priority.</h2>
+			<h2 class="mission-statement" style="max-width: ;">As a family-owned business, providing top-tier plant service to ensure your complete satisfaction is our highest priority.</h2>
 		</div>
 	<!-- </div> -->
 
