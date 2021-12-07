@@ -20,13 +20,15 @@
 		text-align: center;
 
 		.headline {
-			font-size: rem-calc(26);
+			// font-size: rem-calc(26);
+			font-size: rem-calc(36);
 			line-height: 1.2;
 			text-shadow: 0 0 rem-calc(11) rgba(0,0,0,.50);
 			margin-bottom: rem-calc(40);
 
 			span {
-				font-size: rem-calc(32);
+				// font-size: rem-calc(32);
+				font-size: rem-calc(50);
 				font-weight: bold;
 			}
 		}
@@ -38,13 +40,13 @@
 		}
 
 		@include breakpoint(410) {
-			.headline {
-				font-size: rem-calc(36);
+			// .headline {
+			// 	font-size: rem-calc(36);
 
-				span {
-					font-size: rem-calc(50);
-				}
-			}
+			// 	span {
+			// 		font-size: rem-calc(50);
+			// 	}
+			// }
 
 			.mission-statement {
 				font-size: rem-calc(21);

@@ -10240,22 +10240,18 @@ ol.list-upper-roman {
     color: #fff;
     text-align: center; }
     .hero-full-screen .prose-wrap .headline {
-      font-size: 1.625rem;
+      font-size: 2.25rem;
       line-height: 1.2;
       text-shadow: 0 0 0.6875rem rgba(0, 0, 0, 0.5);
       margin-bottom: 2.5rem; }
       .hero-full-screen .prose-wrap .headline span {
-        font-size: 2rem;
+        font-size: 3.125rem;
         font-weight: bold; }
     .hero-full-screen .prose-wrap .mission-statement {
       font-size: 1rem;
       text-shadow: 0 0 0.6875rem rgba(0, 0, 0, 0.5);
       max-width: 18.125rem; }
     @media screen and (min-width: 25.625em) {
-      .hero-full-screen .prose-wrap .headline {
-        font-size: 2.25rem; }
-        .hero-full-screen .prose-wrap .headline span {
-          font-size: 3.125rem; }
       .hero-full-screen .prose-wrap .mission-statement {
         font-size: 1.3125rem;
         max-width: 25rem; } }
