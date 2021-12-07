@@ -24,7 +24,7 @@ body-class: index
 
 	<div class="prose-wrap">
 		<h1 class="headline">Servicing Plants <br><span>Serving People</span></h1>
-		<h2 class="mission-statement float-center">As a family-owned business, providing top-tier plant service to ensure your complete satisfaction is our highest priority.</h2>
+		<h2 class="mission-statement float-center">As a family-owned business, providing top-tier plant service to ensure your complete satisfaction is our highest&nbsp;priority.</h2>
 	</div>
 
 	<div class="bottom-content-section text-center" data-magellan data-threshold="0">
