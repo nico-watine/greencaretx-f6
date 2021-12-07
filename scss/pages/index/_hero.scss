@@ -20,34 +20,24 @@
 		text-align: center;
 
 		.headline {
-			// font-size: rem-calc(26);
 			font-size: rem-calc(36);
 			line-height: 1.2;
 			text-shadow: 0 0 rem-calc(11) rgba(0,0,0,.50);
 			margin-bottom: rem-calc(40);
 
 			span {
-				// font-size: rem-calc(32);
 				font-size: rem-calc(50);
 				font-weight: bold;
 			}
 		}
 
 		.mission-statement {
-			font-size: rem-calc(16);
+			font-size: rem-calc(20);
 			text-shadow: 0 0 rem-calc(11) rgba(0,0,0,.50);
-			max-width: rem-calc(290);
+			max-width: rem-calc(350);
 		}
 
 		@include breakpoint(410) {
-			// .headline {
-			// 	font-size: rem-calc(36);
-
-			// 	span {
-			// 		font-size: rem-calc(50);
-			// 	}
-			// }
-
 			.mission-statement {
 				font-size: rem-calc(21);
 				max-width: rem-calc(400);

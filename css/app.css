@@ -10248,9 +10248,9 @@ ol.list-upper-roman {
         font-size: 3.125rem;
         font-weight: bold; }
     .hero-full-screen .prose-wrap .mission-statement {
-      font-size: 1rem;
+      font-size: 1.25rem;
       text-shadow: 0 0 0.6875rem rgba(0, 0, 0, 0.5);
-      max-width: 18.125rem; }
+      max-width: 21.875rem; }
     @media screen and (min-width: 25.625em) {
       .hero-full-screen .prose-wrap .mission-statement {
         font-size: 1.3125rem;
