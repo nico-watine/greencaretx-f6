@@ -3525,37 +3525,37 @@ ul.no-bullet, ol.no-bullet {
   .button.hollow, .button.hollow:hover, .button.hollow:focus, .button.hollow.disabled, .button.hollow.disabled:hover, .button.hollow.disabled:focus, .button.hollow[disabled], .button.hollow[disabled]:hover, .button.hollow[disabled]:focus {
     background-color: transparent; }
   .button.hollow, .button.hollow.disabled, .button.hollow[disabled], .button.hollow.disabled:hover, .button.hollow[disabled]:hover, .button.hollow.disabled:focus, .button.hollow[disabled]:focus {
-    border: 1px solid #1779ba;
+    border: 2px solid #1779ba;
     color: #1779ba; }
   .button.hollow:hover, .button.hollow:focus {
     border-color: #0c3d5d;
     color: #0c3d5d; }
   .button.hollow.primary, .button.hollow.primary.disabled, .button.hollow.primary[disabled], .button.hollow.primary.disabled:hover, .button.hollow.primary[disabled]:hover, .button.hollow.primary.disabled:focus, .button.hollow.primary[disabled]:focus {
-    border: 1px solid #1779ba;
+    border: 2px solid #1779ba;
     color: #1779ba; }
   .button.hollow.primary:hover, .button.hollow.primary:focus {
     border-color: #0c3d5d;
     color: #0c3d5d; }
   .button.hollow.secondary, .button.hollow.secondary.disabled, .button.hollow.secondary[disabled], .button.hollow.secondary.disabled:hover, .button.hollow.secondary[disabled]:hover, .button.hollow.secondary.disabled:focus, .button.hollow.secondary[disabled]:focus {
-    border: 1px solid #767676;
+    border: 2px solid #767676;
     color: #767676; }
   .button.hollow.secondary:hover, .button.hollow.secondary:focus {
     border-color: #3b3b3b;
     color: #3b3b3b; }
   .button.hollow.success, .button.hollow.success.disabled, .button.hollow.success[disabled], .button.hollow.success.disabled:hover, .button.hollow.success[disabled]:hover, .button.hollow.success.disabled:focus, .button.hollow.success[disabled]:focus {
-    border: 1px solid #3adb76;
+    border: 2px solid #3adb76;
     color: #3adb76; }
   .button.hollow.success:hover, .button.hollow.success:focus {
     border-color: #157539;
     color: #157539; }
   .button.hollow.warning, .button.hollow.warning.disabled, .button.hollow.warning[disabled], .button.hollow.warning.disabled:hover, .button.hollow.warning[disabled]:hover, .button.hollow.warning.disabled:focus, .button.hollow.warning[disabled]:focus {
-    border: 1px solid #ffae00;
+    border: 2px solid #ffae00;
     color: #ffae00; }
   .button.hollow.warning:hover, .button.hollow.warning:focus {
     border-color: #805700;
     color: #805700; }
   .button.hollow.alert, .button.hollow.alert.disabled, .button.hollow.alert[disabled], .button.hollow.alert.disabled:hover, .button.hollow.alert[disabled]:hover, .button.hollow.alert.disabled:focus, .button.hollow.alert[disabled]:focus {
-    border: 1px solid #cc4b37;
+    border: 2px solid #cc4b37;
     color: #cc4b37; }
   .button.hollow.alert:hover, .button.hollow.alert:focus {
     border-color: #67251a;
@@ -3756,37 +3756,37 @@ a.button:hover, a.button:focus {
   .button-group.hollow .button, .button-group.hollow .button:hover, .button-group.hollow .button:focus, .button-group.hollow .button.disabled, .button-group.hollow .button.disabled:hover, .button-group.hollow .button.disabled:focus, .button-group.hollow .button[disabled], .button-group.hollow .button[disabled]:hover, .button-group.hollow .button[disabled]:focus {
     background-color: transparent; }
   .button-group.hollow .button, .button-group.hollow .button.disabled, .button-group.hollow .button[disabled], .button-group.hollow .button.disabled:hover, .button-group.hollow .button[disabled]:hover, .button-group.hollow .button.disabled:focus, .button-group.hollow .button[disabled]:focus {
-    border: 1px solid #1779ba;
+    border: 2px solid #1779ba;
     color: #1779ba; }
   .button-group.hollow .button:hover, .button-group.hollow .button:focus {
     border-color: #0c3d5d;
     color: #0c3d5d; }
   .button-group.hollow.primary .button, .button-group.hollow.primary .button.disabled, .button-group.hollow.primary .button[disabled], .button-group.hollow.primary .button.disabled:hover, .button-group.hollow.primary .button[disabled]:hover, .button-group.hollow.primary .button.disabled:focus, .button-group.hollow.primary .button[disabled]:focus, .button-group.hollow .button.primary, .button-group.hollow .button.primary.disabled, .button-group.hollow .button.primary[disabled], .button-group.hollow .button.primary.disabled:hover, .button-group.hollow .button.primary[disabled]:hover, .button-group.hollow .button.primary.disabled:focus, .button-group.hollow .button.primary[disabled]:focus {
-    border: 1px solid #1779ba;
+    border: 2px solid #1779ba;
     color: #1779ba; }
   .button-group.hollow.primary .button:hover, .button-group.hollow.primary .button:focus, .button-group.hollow .button.primary:hover, .button-group.hollow .button.primary:focus {
     border-color: #0c3d5d;
     color: #0c3d5d; }
   .button-group.hollow.secondary .button, .button-group.hollow.secondary .button.disabled, .button-group.hollow.secondary .button[disabled], .button-group.hollow.secondary .button.disabled:hover, .button-group.hollow.secondary .button[disabled]:hover, .button-group.hollow.secondary .button.disabled:focus, .button-group.hollow.secondary .button[disabled]:focus, .button-group.hollow .button.secondary, .button-group.hollow .button.secondary.disabled, .button-group.hollow .button.secondary[disabled], .button-group.hollow .button.secondary.disabled:hover, .button-group.hollow .button.secondary[disabled]:hover, .button-group.hollow .button.secondary.disabled:focus, .button-group.hollow .button.secondary[disabled]:focus {
-    border: 1px solid #767676;
+    border: 2px solid #767676;
     color: #767676; }
   .button-group.hollow.secondary .button:hover, .button-group.hollow.secondary .button:focus, .button-group.hollow .button.secondary:hover, .button-group.hollow .button.secondary:focus {
     border-color: #3b3b3b;
     color: #3b3b3b; }
   .button-group.hollow.success .button, .button-group.hollow.success .button.disabled, .button-group.hollow.success .button[disabled], .button-group.hollow.success .button.disabled:hover, .button-group.hollow.success .button[disabled]:hover, .button-group.hollow.success .button.disabled:focus, .button-group.hollow.success .button[disabled]:focus, .button-group.hollow .button.success, .button-group.hollow .button.success.disabled, .button-group.hollow .button.success[disabled], .button-group.hollow .button.success.disabled:hover, .button-group.hollow .button.success[disabled]:hover, .button-group.hollow .button.success.disabled:focus, .button-group.hollow .button.success[disabled]:focus {
-    border: 1px solid #3adb76;
+    border: 2px solid #3adb76;
     color: #3adb76; }
   .button-group.hollow.success .button:hover, .button-group.hollow.success .button:focus, .button-group.hollow .button.success:hover, .button-group.hollow .button.success:focus {
     border-color: #157539;
     color: #157539; }
   .button-group.hollow.warning .button, .button-group.hollow.warning .button.disabled, .button-group.hollow.warning .button[disabled], .button-group.hollow.warning .button.disabled:hover, .button-group.hollow.warning .button[disabled]:hover, .button-group.hollow.warning .button.disabled:focus, .button-group.hollow.warning .button[disabled]:focus, .button-group.hollow .button.warning, .button-group.hollow .button.warning.disabled, .button-group.hollow .button.warning[disabled], .button-group.hollow .button.warning.disabled:hover, .button-group.hollow .button.warning[disabled]:hover, .button-group.hollow .button.warning.disabled:focus, .button-group.hollow .button.warning[disabled]:focus {
-    border: 1px solid #ffae00;
+    border: 2px solid #ffae00;
     color: #ffae00; }
   .button-group.hollow.warning .button:hover, .button-group.hollow.warning .button:focus, .button-group.hollow .button.warning:hover, .button-group.hollow .button.warning:focus {
     border-color: #805700;
     color: #805700; }
   .button-group.hollow.alert .button, .button-group.hollow.alert .button.disabled, .button-group.hollow.alert .button[disabled], .button-group.hollow.alert .button.disabled:hover, .button-group.hollow.alert .button[disabled]:hover, .button-group.hollow.alert .button.disabled:focus, .button-group.hollow.alert .button[disabled]:focus, .button-group.hollow .button.alert, .button-group.hollow .button.alert.disabled, .button-group.hollow .button.alert[disabled], .button-group.hollow .button.alert.disabled:hover, .button-group.hollow .button.alert[disabled]:hover, .button-group.hollow .button.alert.disabled:focus, .button-group.hollow .button.alert[disabled]:focus {
-    border: 1px solid #cc4b37;
+    border: 2px solid #cc4b37;
     color: #cc4b37; }
   .button-group.hollow.alert .button:hover, .button-group.hollow.alert .button:focus, .button-group.hollow .button.alert:hover, .button-group.hollow .button.alert:focus {
     border-color: #67251a;
@@ -3819,7 +3819,7 @@ a.button:hover, a.button:focus {
   .button-group.clear.alert .button:hover, .button-group.clear.alert .button:focus, .button-group.clear .button.alert:hover, .button-group.clear .button.alert:focus {
     color: #67251a; }
   .button-group.no-gaps .button {
-    margin-right: -0.0625rem; }
+    margin-right: -0.125rem; }
     .button-group.no-gaps .button + .button {
       border-left-color: transparent; }
   .button-group.stacked, .button-group.stacked-for-small, .button-group.stacked-for-medium {
@@ -9461,11 +9461,6 @@ ol.list-upper-roman {
 .font-weight-black {
   font-weight: 900 !important; }
 
-a:not(.button) {
-  text-decoration: underline; }
-  a:not(.button):hover {
-    text-decoration: none; }
-
 .text-black {
   color: #000 !important; }
 
@@ -10215,6 +10210,81 @@ a:not(.button) {
 
 .min-width-25 {
   min-width: 25%; }
+
+.hero-full-screen {
+  height: 37.5rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(90, 90, 90, 0.7)), to(rgba(90, 90, 90, 0.7))), url("/img/background-images/Ficus-Lyrata-Detail.png") center/cover no-repeat;
+  background: -webkit-linear-gradient(rgba(90, 90, 90, 0.7), rgba(90, 90, 90, 0.7)), url("/img/background-images/Ficus-Lyrata-Detail.png") center/cover no-repeat;
+  background: linear-gradient(rgba(90, 90, 90, 0.7), rgba(90, 90, 90, 0.7)), url("/img/background-images/Ficus-Lyrata-Detail.png") center/cover no-repeat;
+  background-blend-mode: multiply; }
+  .hero-full-screen .top-content-section {
+    width: 100%; }
+  .hero-full-screen .prose-wrap {
+    color: #fff;
+    text-align: center; }
+    .hero-full-screen .prose-wrap .headline {
+      font-size: 2.25rem;
+      line-height: 1.2;
+      text-shadow: 0 0 0.6875rem rgba(0, 0, 0, 0.5);
+      margin-bottom: 2.5rem; }
+      .hero-full-screen .prose-wrap .headline span {
+        font-size: 3.125rem;
+        font-weight: bold; }
+    .hero-full-screen .prose-wrap .mission-statement {
+      font-size: 1.25rem;
+      text-shadow: 0 0 0.6875rem rgba(0, 0, 0, 0.5);
+      max-width: 21.875rem; }
+    @media screen and (min-width: 25.625em) {
+      .hero-full-screen .prose-wrap .mission-statement {
+        font-size: 1.3125rem;
+        max-width: 25rem; } }
+  .hero-full-screen .bottom-content-section {
+    padding: 1rem; }
+    .hero-full-screen .bottom-content-section a.cta {
+      border-color: #fff;
+      padding: 1rem 1.5rem;
+      line-height: 1.2;
+      color: #fff;
+      font-weight: bold;
+      text-transform: uppercase; }
+    .hero-full-screen .bottom-content-section svg {
+      height: 3.75rem;
+      width: 3.75rem; }
+  .hero-full-screen .top-bar {
+    background: transparent; }
+    .hero-full-screen .top-bar .menu {
+      background: transparent; }
+    .hero-full-screen .top-bar .menu-text {
+      color: #fff; }
+    .hero-full-screen .top-bar .menu li {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+          -ms-flex-align: center;
+              align-items: center; }
+    .hero-full-screen .top-bar .menu a {
+      color: #fff;
+      font-weight: bold; }
 
 .people-plants-slogan-section {
   background: #fafafa url("/img/background-images/auditorium.jpg") center/cover no-repeat;
