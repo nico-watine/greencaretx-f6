@@ -4190,7 +4190,7 @@
       "ft" : 64,
       "ma" : 0,
       "mi" : 0,
-      "oA" : 2,
+      "oA" : 1,
       "oAP" : "\/bower_components\/jquery\/dist\/jquery.js",
       "oF" : 0,
       "sC" : 0,
@@ -6522,6 +6522,12 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/dist" : {
+      "ft" : 65536,
+      "oA" : 1,
+      "oAP" : "\/dist",
+      "oF" : 0
+    },
     "\/gulpfile.babel.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -6636,17 +6642,6 @@
       "mi" : 0,
       "oA" : 1,
       "oAP" : "\/js\/index-min.js",
-      "oF" : 0,
-      "sC" : 0,
-      "tS" : 0
-    },
-    "\/node_modules\/jquery\/dist\/jquery.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 0,
-      "oA" : 1,
-      "oAP" : "\/js\/jquery-min.js",
       "oF" : 0,
       "sC" : 0,
       "tS" : 0
