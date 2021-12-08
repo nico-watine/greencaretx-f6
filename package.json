@@ -1,6 +1,6 @@
 {
-  "name": "zurb-f6-boilerplate-yarn",
-  "description": "macOS-optimized boilerplate built on ZURB's 'Advanced' Foundation 6 framework and for use with Yarn",
+  "name": "greencaretx-f6",
+  "description": "greencaretx.com built on zf6bp",
   "scripts": {
     "start": "gulp",
     "build": "gulp build --production"
