@@ -1,0 +1,19 @@
+{
+  "name": "greencaretx-f6",
+  "author": [
+    "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)"
+  ],
+  "description": "greencaretx.com built on zf6bp",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "foundation-sites": "6.7.4",
+    "jquery": ">=3.6.0",
+    "motion-ui": "latest",
+    "what-input": ">=5.2.10"
+  }
+}
