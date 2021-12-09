@@ -62,7 +62,7 @@ body-class: index
 					<div class="flex-child-auto position-relative">
 						<p class="absolute-center width-100">You purchase your new plants from us, along with their decorative containers, and we provide the weekly guaranteed maintenance.</p>
 					</div>
-					<a href="#" class="m-0 button large font-weight-bold mt-20 mb-0 border-rounded">Get Quote</a>
+					<a href="#" class="m-0 button large font-weight-bold mt-20 mb-0 border-rounded">Request Quote</a>
 				</div>
 			</div>
 			<div class="cell medium-4">
@@ -71,7 +71,7 @@ body-class: index
 					<div class="flex-child-auto position-relative">
 						<p class="absolute-center width-100">We lease you the plants and their decorative containers, and we provide the weekly guaranteed maintenance.</p>
 					</div>
-					<a href="#" class="m-0 button large font-weight-bold mt-20 mb-0 border-rounded">Get Quote</a>
+					<a href="#" class="m-0 button large font-weight-bold mt-20 mb-0 border-rounded">Request Quote</a>
 				</div>
 			</div>
 			<div class="cell medium-4">
@@ -80,7 +80,7 @@ body-class: index
 					<div class="flex-child-auto position-relative">
 						<p class="absolute-center width-100">If you happen to already have your own plants, we can take over their guaranteed maintenance.</p>
 					</div>
-					<a href="#" class="m-0 button large font-weight-bold mt-20 mb-0 border-rounded">Get Quote</a>
+					<a href="#" class="m-0 button large font-weight-bold mt-20 mb-0 border-rounded">Request Quote</a>
 				</div>
 			</div>
 		</div>
