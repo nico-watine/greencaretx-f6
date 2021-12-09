@@ -56,6 +56,20 @@
 				max-width: rem-calc(400);
 			}
 		}
+
+		@include breakpoint(medium) {
+			.headline {
+				font-size: rem-calc(38);
+
+				span {
+					font-size: rem-calc(60);
+				}
+			}
+
+			.mission-statement {
+				max-width: rem-calc(500);
+			}
+		}
 	}
 
 	.bottom-content-section {
