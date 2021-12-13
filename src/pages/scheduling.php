@@ -11,8 +11,8 @@ body-class: index
 <section class="scheduling-banner py-40">
 	<div class="row">
 		<div class="large-7 columns">
-			<div class="prose-wrap">
-				<p class="h4 float-right">To schedule an appointment and next-day quote, <br>please call or email our office administrator, <br>Lissette Martinez.</p>
+			<div class="prose-wrap float-right" style="max-width: 530px;">
+				<p class="h4">To schedule an appointment and next-day quote, please call or email our office administrator, Lissette Martinez.</p>
 			</div>
 		</div>
 		<div class="large-5 columns">
