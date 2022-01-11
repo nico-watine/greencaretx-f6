@@ -8782,16 +8782,25 @@ ol.list-upper-roman {
       color: #fff;
       font-weight: bold; }
 
-.scheduling-banner .prose-wrap {
-  max-width: 25rem;
-  margin-bottom: 2.5rem; }
-  .scheduling-banner .prose-wrap p.scheduling-prose {
-    padding: 0 1rem; }
-  @media print, screen and (min-width: 40em) {
-    .scheduling-banner .prose-wrap {
-      max-width: 33.125rem; }
-      .scheduling-banner .prose-wrap p.scheduling-prose {
-        padding: 0; } }
+.scheduling-banner {
+  background: #654111;
+  color: #fff; }
+  .scheduling-banner .prose-wrap {
+    max-width: 25rem;
+    margin-bottom: 2.5rem; }
+    .scheduling-banner .prose-wrap p.scheduling-prose {
+      padding: 0 1rem; }
+
+@media print, screen and (min-width: 40em) {
+  .scheduling-banner .prose-wrap {
+    max-width: 33.125rem; }
+    .scheduling-banner .prose-wrap p.scheduling-prose {
+      padding: 0; } }
+
+@media print, screen and (min-width: 64em) {
+  .scheduling-banner .prose-wrap {
+    margin-bottom: 0; } }
+
 .people-plants-slogan-section {
   background: #fafafa url("/img/background-images/auditorium.jpg") center/cover no-repeat;
   height: 31.25rem;
