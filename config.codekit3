@@ -7,7 +7,7 @@
       "uuidString" : "472B7510-C306-426F-AF80-FB25224303CF"
     }
   ],
-  "creatorBuild" : "34214",
+  "creatorBuild" : "34264",
   "files" : {
     "\/_ignores\/autoprefixer-browser-string.txt" : {
       "cB" : 0,
@@ -7169,6 +7169,21 @@
       "pg" : 0,
       "sct" : 1
     },
+    "\/scss\/pages\/index\/_scheduling-banner.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/pages\/css\/_scheduling-banner.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
     "\/scss\/pages\/index\/_services.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -8381,6 +8396,9 @@
       },
       "no-unused-labels" : {
         "active" : 1
+      },
+      "no-unused-private-class-members" : {
+        "active" : 0
       },
       "no-unused-vars" : {
         "active" : 1,
