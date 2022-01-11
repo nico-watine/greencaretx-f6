@@ -34,8 +34,6 @@ body-class: index
 </div>
 
 <div id="main-content-section" data-magellan-target="main-content-section">
-	<!-- your content goes here -->
-	<!-- <h1>lipsum</h1> -->
 	<section class="scheduling-banner py-40">
 		<div class="row">
 			<div class="large-7 columns">
