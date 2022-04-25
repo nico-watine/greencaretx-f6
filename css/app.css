@@ -8735,7 +8735,8 @@ ol.list-upper-roman {
         border-bottom: 4px solid #a0cc3a;
         margin: 0 auto 0; }
     .about-us-section .content p {
-      text-shadow: 0 0 16px #000; }
+      text-shadow: 0 0 16px #000;
+      margin-bottom: 1.25rem; }
 
 .hero-full-screen {
   height: 37.5rem;
