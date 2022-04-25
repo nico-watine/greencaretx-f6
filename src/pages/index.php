@@ -116,6 +116,7 @@ body-class: index
 		</div>
 	</div>
 </section>
+<br>
 <section class="about-us-section">
 	<div class="content text-center">
 		<div class="row">
