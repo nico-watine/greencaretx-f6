@@ -14,6 +14,7 @@
 		h1 {
 			@include separator(center, 4px, 200px, #a0cc3a, 0);
 			text-shadow: 0 0 16px rgba(0,0,0,.30);
+			margin-bottom: rem-calc(40);
 		}
 
 		p {
