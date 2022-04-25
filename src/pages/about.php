@@ -9,5 +9,7 @@ body-id: index
 body-class: index
 ---
 <section class="about-us-section">
-	<div class="content" style="height: 500px;">&nbsp;</div>
+	<div class="content">
+
+	</div>
 </section>

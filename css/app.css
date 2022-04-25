@@ -8716,7 +8716,8 @@ ol.list-upper-roman {
   background: #b4b4b4 url("/img/background-images/about-us.jpg") center/cover no-repeat;
   background-blend-mode: multiply; }
   .about-us-section .content {
-    backdrop-filter: blur(8px); }
+    backdrop-filter: blur(8px);
+    padding: 6.25rem 0 8.75rem; }
 
 .hero-full-screen {
   height: 37.5rem;
