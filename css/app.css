@@ -8720,7 +8720,8 @@ ol.list-upper-roman {
     backdrop-filter: blur(8px);
     padding: 6.25rem 0 8.75rem; }
     .about-us-section .content .prose-wrap {
-      max-width: 42.5rem; }
+      max-width: 43.125rem;
+      padding: 0 0.5rem; }
     .about-us-section .content h1 {
       text-align: center !important;
       text-shadow: 0 0 16px rgba(0, 0, 0, 0.3);
