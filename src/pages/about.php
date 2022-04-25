@@ -9,7 +9,7 @@ body-id: index
 body-class: index
 ---
 <section class="about-us-section">
-	<div class="content">
-
+	<div class="content text-center">
+		<h1 class="font-weight-bold">About Us</h1>
 	</div>
 </section>

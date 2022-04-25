@@ -8714,7 +8714,8 @@ ol.list-upper-roman {
 
 .about-us-section {
   background: #b4b4b4 url("/img/background-images/about-us.jpg") center/cover no-repeat;
-  background-blend-mode: multiply; }
+  background-blend-mode: multiply;
+  color: #fff; }
   .about-us-section .content {
     backdrop-filter: blur(8px);
     padding: 6.25rem 0 8.75rem; }
