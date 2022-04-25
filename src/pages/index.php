@@ -1,6 +1,6 @@
 ---
 url: /
-title: Servicing Plants Serving People
+title: Servicing Plants, Serving People
 description:
 og-title:
 og-description:
