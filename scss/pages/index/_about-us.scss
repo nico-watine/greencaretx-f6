@@ -1,0 +1,30 @@
+.about-us-section {
+	background: #b4b4b4 url('/img/background-images/about-us.jpg') center/cover no-repeat;
+	background-blend-mode: multiply;
+	color: #fff;
+
+	@include breakpoint(small only) {
+		background-position: -100px;
+	}
+
+	.content {
+		backdrop-filter: blur(10px);
+		padding: rem-calc(100 0 140);
+
+		.prose-wrap {
+			max-width: rem-calc(690);
+			padding: rem-calc(0 8);
+		}
+
+		h1 {
+			@include separator(center, 4px, 200px, #a0cc3a, 0);
+			text-shadow: 0 0 16px rgba(0,0,0,.30);
+			margin-bottom: rem-calc(40);
+		}
+
+		p {
+			text-shadow: 0 0 16px #000;
+			margin-bottom: rem-calc(20);
+		}
+	}
+}
