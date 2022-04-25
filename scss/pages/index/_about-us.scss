@@ -6,5 +6,9 @@
 	.content {
 		backdrop-filter: blur(8px);
 		padding: rem-calc(100 0 140);
+
+		h1 {
+			@include separator(center, 4px, 200px, #A0CC3A, 0);
+		}
 	}
 }

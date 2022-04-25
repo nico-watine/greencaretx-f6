@@ -8719,6 +8719,20 @@ ol.list-upper-roman {
   .about-us-section .content {
     backdrop-filter: blur(8px);
     padding: 6.25rem 0 8.75rem; }
+    .about-us-section .content h1 {
+      text-align: center !important; }
+      .about-us-section .content h1::before, .about-us-section .content h1::after {
+        display: table;
+        content: ' ';
+        flex-basis: 0;
+        order: 1; }
+      .about-us-section .content h1::after {
+        clear: both; }
+      .about-us-section .content h1::after {
+        position: relative !important;
+        width: 200px;
+        border-bottom: 4px solid #A0CC3A;
+        margin: 0 auto 0; }
 
 .hero-full-screen {
   height: 37.5rem;
