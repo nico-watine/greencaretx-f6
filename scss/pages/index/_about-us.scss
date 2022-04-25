@@ -7,6 +7,10 @@
 		backdrop-filter: blur(8px);
 		padding: rem-calc(100 0 140);
 
+		.prose-wrap {
+			max-width: rem-calc(680);
+		}
+
 		h1 {
 			@include separator(center, 4px, 200px, #a0cc3a, 0);
 			text-shadow: 0 0 16px rgba(0,0,0,.30);
