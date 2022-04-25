@@ -8712,6 +8712,12 @@ ol.list-upper-roman {
 .min-width-25 {
   min-width: 25%; }
 
+.about-us-section {
+  background: #b4b4b4 url("/img/background-images/about-us.jpg") center/cover no-repeat;
+  background-blend-mode: multiply; }
+  .about-us-section .content {
+    backdrop-filter: blur(8px); }
+
 .hero-full-screen {
   height: 37.5rem;
   display: flex;
