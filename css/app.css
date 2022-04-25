@@ -8720,7 +8720,8 @@ ol.list-upper-roman {
     backdrop-filter: blur(8px);
     padding: 6.25rem 0 8.75rem; }
     .about-us-section .content h1 {
-      text-align: center !important; }
+      text-align: center !important;
+      text-shadow: 0 0 16px rgba(0, 0, 0, 0.3); }
       .about-us-section .content h1::before, .about-us-section .content h1::after {
         display: table;
         content: ' ';
@@ -8731,8 +8732,10 @@ ol.list-upper-roman {
       .about-us-section .content h1::after {
         position: relative !important;
         width: 200px;
-        border-bottom: 4px solid #A0CC3A;
+        border-bottom: 4px solid #a0cc3a;
         margin: 0 auto 0; }
+    .about-us-section .content p {
+      text-shadow: 0 0 16px #000; }
 
 .hero-full-screen {
   height: 37.5rem;
