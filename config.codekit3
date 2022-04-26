@@ -5814,7 +5814,7 @@
       "ft" : 64,
       "ma" : 0,
       "mi" : 0,
-      "oA" : 2,
+      "oA" : 1,
       "oAP" : "\/bower_components\/magnific-popup\/dist\/jquery.magnific-popup.min.js",
       "oF" : 0,
       "sC" : 0,

@@ -1,5 +1,6 @@
 // @codekit-prepend "/bower_components/imagesloaded/imagesloaded.pkgd.min.js";
 // @codekit-prepend "/bower_components/masonry-layout/dist/masonry.pkgd.min.js";
+// @codekit-prepend "/bower_components/magnific-popup/dist/jquery.magnific-popup.min.js";
 
 $(document).foundation();
 
