@@ -11,7 +11,7 @@ $('.tileBase').magnificPopup({
 	gallery:{
 		enabled:true
 	},
-	disableOn: function() {
+	disableOn: function() { // disable Popup when less than 700px wide, and change to regular link
 		if( $(window).width() < 700 ) {
 			return false;
 		}
