@@ -24,7 +24,6 @@ body-class: index
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<!-- <img src="/img/gallery/Greencare%20Interior%20Plants%20-%203.jpg" alt=""> -->
 				<img src="/img/gallery/Greencare%20Interior%20Plants%20-%207.jpg" alt="">
 				<p>Image 3</p>
 			</div>
@@ -50,7 +49,6 @@ body-class: index
 		<div class="tile column column-block">
 			<div class="tileBase">
 				<img src="/img/gallery/Greencare%20Interior%20Plants%20-%203.jpg" alt="">
-				<!-- <img src="/img/gallery/Greencare%20Interior%20Plants%20-%207.jpg" alt=""> -->
 				<p>Image 7</p>
 			</div>
 		</div>
