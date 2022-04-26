@@ -24,7 +24,8 @@ body-class: index
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/gallery/Greencare%20Interior%20Plants%20-%203.jpg"><img src="/img/gallery/Greencare%20Interior%20Plants%20-%203.jpg" alt=""></a>
+				<!-- <a href="/img/gallery/Greencare%20Interior%20Plants%20-%203.jpg"><img src="/img/gallery/Greencare%20Interior%20Plants%20-%203.jpg" alt=""></a> -->
+				<a href="/img/gallery/Greencare%20Interior%20Plants%20-%207.jpg"><img src="/img/gallery/Greencare%20Interior%20Plants%20-%207.jpg" alt=""></a>
 				<p>Image 3</p>
 			</div>
 		</div>
@@ -48,7 +49,8 @@ body-class: index
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/gallery/Greencare%20Interior%20Plants%20-%207.jpg"><img src="/img/gallery/Greencare%20Interior%20Plants%20-%207.jpg" alt=""></a>
+				<!-- <a href="/img/gallery/Greencare%20Interior%20Plants%20-%207.jpg"><img src="/img/gallery/Greencare%20Interior%20Plants%20-%207.jpg" alt=""></a> -->
+				<a href="/img/gallery/Greencare%20Interior%20Plants%20-%203.jpg"><img src="/img/gallery/Greencare%20Interior%20Plants%20-%203.jpg" alt=""></a>
 				<p>Image 7</p>
 			</div>
 		</div>
