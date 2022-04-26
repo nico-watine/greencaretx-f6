@@ -8748,7 +8748,8 @@ ol.list-upper-roman {
 .gallery-section #masonryGrid .tile .tileBase {
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
   background: #fff;
-  border-radius: 0.25rem; }
+  border-radius: 1.5rem;
+  overflow: hidden; }
 
 .hero-full-screen {
   height: 37.5rem;

@@ -4,7 +4,8 @@
 			.tileBase {
 				box-shadow: $z-1;
 				background: #fff;
-				border-radius: rem-calc(4);
+				border-radius: rem-calc(24);
+				overflow: hidden;
 			}
 		}
 	}
