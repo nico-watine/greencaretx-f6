@@ -9069,14 +9069,10 @@ ol.list-upper-roman {
 
 .mfp-zoom-out-cur,
 .mfp-zoom-out-cur .mfp-image-holder .mfp-close {
-  cursor: -moz-zoom-out;
-  cursor: -webkit-zoom-out;
   cursor: zoom-out; }
 
 .mfp-zoom {
   cursor: pointer;
-  cursor: -webkit-zoom-in;
-  cursor: -moz-zoom-in;
   cursor: zoom-in; }
 
 .mfp-auto-cursor .mfp-content {
@@ -9086,8 +9082,6 @@ ol.list-upper-roman {
 .mfp-arrow,
 .mfp-preloader,
 .mfp-counter {
-  -webkit-user-select: none;
-  -moz-user-select: none;
   user-select: none; }
 
 .mfp-loading.mfp-figure {
@@ -9163,8 +9157,7 @@ button::-moz-focus-inner {
 .mfp-close-btn-in .mfp-close {
   color: #333; }
 
-.mfp-image-holder .mfp-close,
-.mfp-iframe-holder .mfp-close {
+.mfp-image-holder .mfp-close {
   color: #fff;
   right: -6px;
   text-align: right;
