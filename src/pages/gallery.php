@@ -13,57 +13,45 @@ body-class: index
 		<div class="tile column column-block">
 			<div class="tileBase">
 				<img src="/img/gallery/Greencare%20Interior%20Plants%20-%201.jpg" alt="">
-				<!-- <div class="padding-XY">
-					<p class="margin-0">First tacks</p>
-				</div> -->
+				<p>Image 1</p>
 			</div>
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
 				<img src="/img/gallery/Greencare%20Interior%20Plants%20-%202.jpg" alt="">
-				<!-- <div class="padding-XY">
-					<p class="margin-0">A hole saw made a perfect sized hole for the transmission locating bushing</p>
-				</div> -->
+				<p>Image 2</p>
 			</div>
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<img src="/img/gallery/Greencare%20Interior%20Plants%20-%203.jpg" alt="">
-				<!-- <div class="padding-XY">
-					<p class="margin-0">A hole saw made a perfect sized hole for the transmission locating bushing</p>
-				</div> -->
+				<!-- <img src="/img/gallery/Greencare%20Interior%20Plants%20-%203.jpg" alt=""> -->
+				<img src="/img/gallery/Greencare%20Interior%20Plants%20-%207.jpg" alt="">
+				<p>Image 3</p>
 			</div>
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
 				<img src="/img/gallery/Greencare%20Interior%20Plants%20-%204.jpg" alt="">
-				<!-- <div class="padding-XY">
-					<p class="margin-0">A hole saw made a perfect sized hole for the transmission locating bushing</p>
-				</div> -->
+				<p>Image 4</p>
 			</div>
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
 				<img src="/img/gallery/Greencare%20Interior%20Plants%20-%205.jpg" alt="">
-				<!-- <div class="padding-XY">
-					<p class="margin-0">A hole saw made a perfect sized hole for the transmission locating bushing</p>
-				</div> -->
+				<p>Image 5</p>
 			</div>
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
 				<img src="/img/gallery/Greencare%20Interior%20Plants%20-%206.jpg" alt="">
-				<!-- <div class="padding-XY">
-					<p class="margin-0">A hole saw made a perfect sized hole for the transmission locating bushing</p>
-				</div> -->
+				<p>Image 6</p>
 			</div>
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<img src="/img/gallery/Greencare%20Interior%20Plants%20-%207.jpg" alt="">
-				<!-- <div class="padding-XY">
-					<p class="margin-0">A hole saw made a perfect sized hole for the transmission locating bushing</p>
-				</div> -->
+				<img src="/img/gallery/Greencare%20Interior%20Plants%20-%203.jpg" alt="">
+				<!-- <img src="/img/gallery/Greencare%20Interior%20Plants%20-%207.jpg" alt=""> -->
+				<p>Image 7</p>
 			</div>
 		</div>
 	</div>
