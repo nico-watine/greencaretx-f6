@@ -3,6 +3,7 @@
 
 $(document).foundation();
 
+// init Masonry Gallery after all images loaded
 $('#masonryGrid').imagesLoaded( function() {
 	$('#masonryGrid').masonry({
 		itemSelector: '#masonryGrid .tile'
