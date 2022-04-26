@@ -16,6 +16,7 @@
     "motion-ui": "latest",
     "what-input": ">=5.2.10",
     "masonry-layout": "masonry#4.2.2",
-    "imagesloaded": "4.1.4"
+    "imagesloaded": "4.1.4",
+    "magnific-popup": "1.1.0"
   }
 }
