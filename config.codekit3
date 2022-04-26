@@ -7108,6 +7108,21 @@
       "pg" : 0,
       "sct" : 1
     },
+    "\/scss\/pages\/index\/_gallery.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/pages\/css\/_gallery.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
     "\/scss\/pages\/index\/_hero.scss" : {
       "aP" : 0,
       "bl" : 0,
