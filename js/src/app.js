@@ -4,6 +4,21 @@
 
 $(document).foundation();
 
+// init Magnific Popup for gallery
+$('.tileBase').magnificPopup({
+	delegate: 'a',
+	type: 'image',
+	gallery:{
+		enabled:true
+	},
+	disableOn: function() {
+		if( $(window).width() < 700 ) {
+			return false;
+		}
+		return true;
+	}
+});
+
 // init Masonry Gallery after all images loaded
 $('#masonryGrid').imagesLoaded( function() {
 	$('#masonryGrid').masonry({
