@@ -2,7 +2,7 @@ Todos:
 	✔	Update f6 to latest version (6.6.3) @done (22-01-11 09:59)
 	✔	Ensure all scss matches latest version so compiles successfully @done (22-01-11 09:59)
 	✔	Update jquery to 3.5.1 to match official zurb build @done (22-01-11 09:59)
-	☐	optimize all images
+	✔	optimize all images @done (22-04-27 13:29)
 	✔	add final contact banner with colophon link @done (22-04-27 12:48)
 	✔	Confirm all links @done (22-04-27 12:56)
 	☐	finalize logo placement and size
