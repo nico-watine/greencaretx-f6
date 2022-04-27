@@ -8,10 +8,6 @@ Todos:
 	☐	finalize logo placement and size
 	☐	remove "one/two" temporary nav bar
 	☐	Add phone icon and email icon at very top of page
-<<<<<<< HEAD
-	☐	update <head> meta
-	☐	viewport=cover ??
-
-=======
 	☐	add alt and title attributes for gallery
->>>>>>> feature/optimize-img-assets/_base
+	☐	update <head> meta
+	☐	viewport=cover?
