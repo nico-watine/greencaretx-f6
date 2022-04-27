@@ -52,3 +52,15 @@
 		}
 	}
 }
+
+@include breakpoint(large) {
+	.scheduling-banner {
+		.prose-column {
+			padding-bottom: rem-calc(40);
+		}
+
+		.contact-info-column {
+			padding: rem-calc(60 0);
+		}
+	}
+}
