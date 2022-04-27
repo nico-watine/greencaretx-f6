@@ -8829,12 +8829,12 @@ ol.list-upper-roman {
   .scheduling-banner.light-banner {
     background: #ded8cc;
     color: #0a0a0a; }
-  .scheduling-banner .prose-wrap {
-    max-width: 25rem; }
-    .scheduling-banner .prose-wrap p.scheduling-prose {
-      padding: 0 1rem; }
   .scheduling-banner .prose-column {
     padding-top: 2.5rem; }
+    .scheduling-banner .prose-column .prose-wrap {
+      max-width: 25rem; }
+      .scheduling-banner .prose-column .prose-wrap p.scheduling-prose {
+        padding: 0 1rem; }
   .scheduling-banner .contact-info-column {
     position: relative;
     padding: 2.5rem 0; }
@@ -8846,7 +8846,7 @@ ol.list-upper-roman {
       top: 0;
       width: 100%;
       height: 100%;
-      opacity: .5;
+      opacity: .7;
       background: transparent url("/img/ornaments/pot2.svg") center/contain no-repeat; }
     .scheduling-banner .contact-info-column .prose-wrap {
       position: relative; }
