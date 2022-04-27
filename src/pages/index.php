@@ -38,7 +38,7 @@ body-class: index
 		<div class="row">
 			<div class="large-7 columns prose-column">
 				<div class="prose-wrap float-center large-float-right">
-					<p class="h4 scheduling-prose">To schedule an appointment and next-day quote, please call or email our office administrator, Lissette&nbsp;Martinez.</p>
+					<p class="h4">To schedule an appointment and next-day quote, please call or email our office administrator, Lissette&nbsp;Martinez.</p>
 				</div>
 			</div>
 			<div class="large-5 columns contact-info-column">

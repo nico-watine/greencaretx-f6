@@ -8833,7 +8833,7 @@ ol.list-upper-roman {
     padding-top: 2.5rem; }
     .scheduling-banner .prose-column .prose-wrap {
       max-width: 25rem; }
-      .scheduling-banner .prose-column .prose-wrap p.scheduling-prose {
+      .scheduling-banner .prose-column .prose-wrap p {
         padding: 0 1rem; }
   .scheduling-banner .contact-info-column {
     position: relative;
