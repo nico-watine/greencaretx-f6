@@ -8836,8 +8836,23 @@ ol.list-upper-roman {
   .scheduling-banner .prose-column {
     padding-top: 2.5rem; }
   .scheduling-banner .contact-info-column {
-    padding: 2.5rem 0;
-    background: transparent url("/img/ornaments/pot2.svg") center/contain no-repeat; }
+    position: relative;
+    padding: 2.5rem 0; }
+    .scheduling-banner .contact-info-column:before {
+      content: ' ';
+      display: block;
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      opacity: .5;
+      background-image: url("/img/ornaments/pot2.svg");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: contain; }
+    .scheduling-banner .contact-info-column .prose-wrap {
+      position: relative; }
 
 @media print, screen and (min-width: 40em) {
   .scheduling-banner .prose-wrap {

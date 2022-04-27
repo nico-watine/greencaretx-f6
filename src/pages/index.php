@@ -42,7 +42,7 @@ body-class: index
 				</div>
 			</div>
 			<div class="large-5 columns contact-info-column">
-				<div class="float-center">
+				<div class="prose-wrap float-center">
 					<p class="h3 font-weight-bold text-center">713-864-5300 <br>lissette@greencaretx.com</p>
 				</div>
 			</div>
@@ -124,7 +124,7 @@ body-class: index
 			</div>
 		</div>
 		<div class="large-5 columns contact-info-column">
-			<div class="float-center">
+			<div class="prose-wrap float-center">
 				<p class="h3 font-weight-bold text-center">713-864-5300 <br>lissette@greencaretx.com</p>
 			</div>
 		</div>
