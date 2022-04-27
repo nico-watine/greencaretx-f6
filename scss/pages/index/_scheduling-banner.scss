@@ -7,23 +7,47 @@
 	background: $gctx-brown;
 	color: #fff;
 
-	.prose-wrap {
-		max-width: rem-calc(400);
-		margin-bottom: rem-calc(40);
+	.prose-column {
+		padding-top: rem-calc(40);
 
-		p.scheduling-prose {
-			padding: 0 rem-calc(16);
+		.prose-wrap {
+			max-width: rem-calc(400);
+
+			p {
+				padding: 0 rem-calc(16);
+			}
+		}
+	}
+
+	.contact-info-column {
+		position: relative;
+		padding: rem-calc(40 0);
+
+		&:before {
+			content: ' ';
+			display: block;
+			position: absolute;
+			left: 0;
+			top: 0;
+			width: 100%;
+			height: 100%;
+			opacity: .7;
+			background: transparent url('/img/ornaments/pot2.svg') center/contain no-repeat;
+		}
+
+		.prose-wrap {
+			position: relative;
 		}
 	}
 }
 
 @include breakpoint(medium) {
 	.scheduling-banner {
-		.prose-wrap {
-			max-width: rem-calc(530);
-
-			p.scheduling-prose {
-				padding: 0;
+		.prose-column {
+			.prose-wrap {
+				p {
+					padding: 0;
+				}
 			}
 		}
 	}
@@ -31,8 +55,12 @@
 
 @include breakpoint(large) {
 	.scheduling-banner {
-		.prose-wrap {
-			margin-bottom: 0;
+		.prose-column {
+			padding-bottom: rem-calc(40);
+		}
+
+		.contact-info-column {
+			padding: rem-calc(60 0);
 		}
 	}
 }
