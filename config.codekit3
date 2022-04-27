@@ -7172,7 +7172,7 @@
     },
     "\/img\/background-images\/about-us.jpg" : {
       "ft" : 16384,
-      "iS" : 187980,
+      "iS" : 49062,
       "jF" : 0,
       "oA" : 1,
       "oAP" : "\/img\/background-images\/about-us.jpg",
@@ -7185,7 +7185,7 @@
     },
     "\/img\/background-images\/auditorium.jpg" : {
       "ft" : 16384,
-      "iS" : 2363053,
+      "iS" : 172809,
       "jF" : 0,
       "oA" : 1,
       "oAP" : "\/img\/background-images\/auditorium.jpg",
@@ -7196,22 +7196,22 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/background-images\/Ficus-Lyrata-Detail.png" : {
-      "ft" : 32768,
-      "iS" : 1103249,
+    "\/img\/background-images\/Ficus-Lyrata-Detail.jpg" : {
+      "ft" : 16384,
+      "iS" : 77324,
+      "jF" : 0,
       "oA" : 1,
-      "oAP" : "\/img\/background-images\/Ficus-Lyrata-Detail.png",
+      "oAP" : "\/img\/background-images\/Ficus-Lyrata-Detail.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
     },
     "\/img\/background-images\/living-wall-2.jpg" : {
       "ft" : 16384,
-      "iS" : 179089,
+      "iS" : 168580,
       "jF" : 0,
       "oA" : 1,
       "oAP" : "\/img\/background-images\/living-wall-2.jpg",
