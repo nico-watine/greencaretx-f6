@@ -7359,6 +7359,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/ornaments\/philo-shadow2.png" : {
+      "ft" : 32768,
+      "iS" : 38885,
+      "oA" : 1,
+      "oAP" : "\/img\/ornaments\/philo-shadow2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/js\/app-min.js" : {
       "bF" : 0,
       "ft" : 64,
