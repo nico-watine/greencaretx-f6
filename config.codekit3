@@ -7336,18 +7336,15 @@
       "plM" : 3758088159,
       "prP" : 0
     },
-    "\/img\/ornaments\/flower-bg.png" : {
-      "ft" : 32768,
-      "iS" : 3543,
+    "\/img\/ornaments\/flower-pot.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
       "oA" : 1,
-      "oAP" : "\/img\/ornaments\/flower-bg.png",
+      "oAP" : "\/img\/ornaments\/flower-pot.svg",
       "oF" : 0,
-      "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
+      "plM" : 3758088159,
+      "prP" : 0
     },
     "\/img\/ornaments\/philo-shadow.png" : {
       "ft" : 32768,
@@ -7361,36 +7358,6 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
-    },
-    "\/img\/ornaments\/pot.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 1,
-      "oAP" : "\/img\/ornaments\/pot.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 3758088159,
-      "prP" : 0
-    },
-    "\/img\/ornaments\/pot2.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 1,
-      "oAP" : "\/img\/ornaments\/pot2.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 3758088159,
-      "prP" : 0
-    },
-    "\/img\/ornaments\/pot3.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 1,
-      "oAP" : "\/img\/ornaments\/pot3.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 3758088159,
-      "prP" : 0
     },
     "\/js\/app-min.js" : {
       "bF" : 0,
