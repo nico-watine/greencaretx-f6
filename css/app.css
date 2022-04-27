@@ -8746,7 +8746,8 @@ ol.list-upper-roman {
       margin-bottom: 1.25rem; }
 
 .gallery-section {
-  padding: 5rem 0; }
+  padding: 5rem 0;
+  background: #eee; }
   .gallery-section #masonryGrid .tile .tileBase {
     border: 0.25rem solid #654111;
     border-radius: 1.5rem;
