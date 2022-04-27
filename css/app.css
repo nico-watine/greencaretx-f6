@@ -8745,9 +8745,11 @@ ol.list-upper-roman {
       text-shadow: 0 0 16px #000;
       margin-bottom: 1.25rem; }
 
-.gallery-section #masonryGrid .tile .tileBase {
-  border-radius: 1.5rem;
-  overflow: hidden; }
+.gallery-section {
+  padding: 5rem 0; }
+  .gallery-section #masonryGrid .tile .tileBase {
+    border-radius: 1.5rem;
+    overflow: hidden; }
 
 .hero-full-screen {
   height: 37.5rem;
