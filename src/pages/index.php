@@ -67,9 +67,9 @@ body-class: index
 <section class="services-section">
 	<div class="grid-container service-options-grid">
 		<h2 class="h2 section-heading font-weight-bold text-center mb-40 float-center">We offer 3 options to best suit your needs</h2>
-		<div class="grid-x grid-padding-x">
+		<div class="grid-x grid-padding-x" data-magellan data-threshold="0">
 			<div class="cell medium-4">
-				<div class="service-option-card flex-container flex-dir-column" data-magellan data-threshold="0">
+				<div class="service-option-card flex-container flex-dir-column">
 					<h3 class="h3 font-weight-bold">Purchase new plants</h3>
 					<div class="flex-child-auto position-relative">
 						<p class="absolute-center width-100">You purchase your new plants from us, along with their decorative containers, and we provide the weekly guaranteed maintenance.</p>
