@@ -1,4 +1,4 @@
--
+---
 url: /
 title: Servicing Plants, Serving People
 description:
@@ -7,7 +7,7 @@ og-description:
 og-image:
 body-id: index
 body-class: index
--
+---
 <div class="hero-full-screen">
 
 	<div class="top-content-section">
