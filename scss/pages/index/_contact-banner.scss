@@ -1,4 +1,4 @@
-.scheduling-banner {
+.contact-banner {
 	&.light-banner {
 		background: #ded8cc;
 		color: $black;
@@ -42,7 +42,7 @@
 }
 
 @include breakpoint(medium) {
-	.scheduling-banner {
+	.contact-banner {
 		.prose-column {
 			.prose-wrap {
 				p {
@@ -54,7 +54,7 @@
 }
 
 @include breakpoint(large) {
-	.scheduling-banner {
+	.contact-banner {
 		.prose-column {
 			padding-bottom: rem-calc(40);
 		}

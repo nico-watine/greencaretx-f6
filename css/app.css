@@ -8753,6 +8753,44 @@ a[href^="mailto"] {
       text-shadow: 0 0 16px #000;
       margin-bottom: 1.25rem; }
 
+.contact-banner {
+  background: #654111;
+  color: #fff; }
+  .contact-banner.light-banner {
+    background: #ded8cc;
+    color: #0a0a0a; }
+  .contact-banner .prose-column {
+    padding-top: 2.5rem; }
+    .contact-banner .prose-column .prose-wrap {
+      max-width: 25rem; }
+      .contact-banner .prose-column .prose-wrap p {
+        padding: 0 1rem; }
+  .contact-banner .contact-info-column {
+    position: relative;
+    padding: 2.5rem 0; }
+    .contact-banner .contact-info-column:before {
+      content: ' ';
+      display: block;
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      opacity: .7;
+      background: transparent url("/img/ornaments/pot2.svg") center/contain no-repeat; }
+    .contact-banner .contact-info-column .prose-wrap {
+      position: relative; }
+
+@media print, screen and (min-width: 40em) {
+  .contact-banner .prose-column .prose-wrap p {
+    padding: 0; } }
+
+@media print, screen and (min-width: 64em) {
+  .contact-banner .prose-column {
+    padding-bottom: 2.5rem; }
+  .contact-banner .contact-info-column {
+    padding: 3.75rem 0; } }
+
 .gallery-section {
   padding: 5rem 0;
   background: #eee; }
@@ -8830,44 +8868,6 @@ a[href^="mailto"] {
     .hero-full-screen .top-bar .menu a {
       color: #fff;
       font-weight: bold; }
-
-.scheduling-banner {
-  background: #654111;
-  color: #fff; }
-  .scheduling-banner.light-banner {
-    background: #ded8cc;
-    color: #0a0a0a; }
-  .scheduling-banner .prose-column {
-    padding-top: 2.5rem; }
-    .scheduling-banner .prose-column .prose-wrap {
-      max-width: 25rem; }
-      .scheduling-banner .prose-column .prose-wrap p {
-        padding: 0 1rem; }
-  .scheduling-banner .contact-info-column {
-    position: relative;
-    padding: 2.5rem 0; }
-    .scheduling-banner .contact-info-column:before {
-      content: ' ';
-      display: block;
-      position: absolute;
-      left: 0;
-      top: 0;
-      width: 100%;
-      height: 100%;
-      opacity: .7;
-      background: transparent url("/img/ornaments/pot2.svg") center/contain no-repeat; }
-    .scheduling-banner .contact-info-column .prose-wrap {
-      position: relative; }
-
-@media print, screen and (min-width: 40em) {
-  .scheduling-banner .prose-column .prose-wrap p {
-    padding: 0; } }
-
-@media print, screen and (min-width: 64em) {
-  .scheduling-banner .prose-column {
-    padding-bottom: 2.5rem; }
-  .scheduling-banner .contact-info-column {
-    padding: 3.75rem 0; } }
 
 .people-plants-slogan-section {
   background: #fafafa url("/img/background-images/auditorium.jpg") center/cover no-repeat;
