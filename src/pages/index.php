@@ -116,7 +116,7 @@ body-class: index
 		</div>
 	</div>
 </section>
-<section class="contact-banner">
+<section class="contact-banner dark-banner">
 	<div class="row">
 		<div class="large-7 columns prose-column">
 			<div class="prose-wrap float-center large-float-right">
