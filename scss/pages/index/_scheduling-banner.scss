@@ -43,11 +43,11 @@
 
 @include breakpoint(medium) {
 	.scheduling-banner {
-		.prose-wrap {
-			max-width: rem-calc(530);
-
-			p.scheduling-prose {
-				padding: 0;
+		.prose-column {
+			.prose-wrap {
+				p {
+					padding: 0;
+				}
 			}
 		}
 	}
