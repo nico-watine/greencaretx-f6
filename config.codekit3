@@ -7336,6 +7336,19 @@
       "plM" : 3758088159,
       "prP" : 0
     },
+    "\/img\/ornaments\/flower-bg.png" : {
+      "ft" : 32768,
+      "iS" : 3543,
+      "oA" : 1,
+      "oAP" : "\/img\/ornaments\/flower-bg.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/ornaments\/philo-shadow.png" : {
       "ft" : 32768,
       "iS" : 2924008,
@@ -7348,6 +7361,36 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/img\/ornaments\/pot.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/ornaments\/pot.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
+    },
+    "\/img\/ornaments\/pot2.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/ornaments\/pot2.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
+    },
+    "\/img\/ornaments\/pot3.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/ornaments\/pot3.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
     },
     "\/js\/app-min.js" : {
       "bF" : 0,
@@ -7860,6 +7903,21 @@
       "pg" : 0,
       "sct" : 1
     },
+    "\/scss\/pages\/index\/_contact-banner.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/pages\/css\/_contact-banner.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
     "\/scss\/pages\/index\/_gallery.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -7915,21 +7973,6 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/scss\/pages\/css\/_people-plants-slogan.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
-    "\/scss\/pages\/index\/_scheduling-banner.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/scss\/pages\/css\/_scheduling-banner.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
