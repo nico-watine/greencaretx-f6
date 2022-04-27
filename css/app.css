@@ -8794,6 +8794,18 @@ a[href^="mailto"] {
   .contact-banner .contact-info-column {
     padding: 3.75rem 0; } }
 
+.site-colophon {
+  text-align: center;
+  padding: 1rem 0; }
+  .site-colophon a {
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 0.0375rem; }
+    .site-colophon a span {
+      text-decoration: underline; }
+    .site-colophon a:hover {
+      text-decoration: underline; }
+
 .gallery-section {
   padding: 5rem 0;
   background: #eee; }

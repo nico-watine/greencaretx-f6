@@ -195,4 +195,7 @@ body-class: index
 			</div>
 		</div>
 	</div>
+	<div class="row site-colophon">
+		<a class="h6" href="https://studioncreations.com">A <span>Studio N</span> Creation</a>
+	</div>
 </section>

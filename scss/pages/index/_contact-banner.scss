@@ -66,3 +66,22 @@
 		}
 	}
 }
+
+.site-colophon {
+	text-align: center;
+	padding: rem-calc(16 0);
+
+	a {
+		color: #fff;
+		text-transform: uppercase;
+		letter-spacing: rem-calc(0.6);
+
+		span {
+			text-decoration: underline;
+		}
+
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+}
