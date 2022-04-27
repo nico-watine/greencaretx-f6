@@ -8753,33 +8753,36 @@ a[href^="mailto"] {
       text-shadow: 0 0 16px #000;
       margin-bottom: 1.25rem; }
 
-.contact-banner {
+.contact-banner.light-banner {
+  background: #ded8cc;
+  color: #0a0a0a; }
+
+.contact-banner.dark-banner {
   background: #654111;
   color: #fff; }
-  .contact-banner.light-banner {
-    background: #ded8cc;
-    color: #0a0a0a; }
-  .contact-banner .prose-column {
-    padding-top: 2.5rem; }
-    .contact-banner .prose-column .prose-wrap {
-      max-width: 25rem; }
-      .contact-banner .prose-column .prose-wrap p {
-        padding: 0 1rem; }
-  .contact-banner .contact-info-column {
-    position: relative;
-    padding: 2.5rem 0; }
-    .contact-banner .contact-info-column:before {
-      content: ' ';
-      display: block;
-      position: absolute;
-      left: 0;
-      top: 0;
-      width: 100%;
-      height: 100%;
-      opacity: .7;
-      background: transparent url("/img/ornaments/pot2.svg") center/contain no-repeat; }
-    .contact-banner .contact-info-column .prose-wrap {
-      position: relative; }
+
+.contact-banner .prose-column {
+  padding-top: 2.5rem; }
+  .contact-banner .prose-column .prose-wrap {
+    max-width: 25rem; }
+    .contact-banner .prose-column .prose-wrap p {
+      padding: 0 1rem; }
+
+.contact-banner .contact-info-column {
+  position: relative;
+  padding: 2.5rem 0; }
+  .contact-banner .contact-info-column:before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    opacity: .7;
+    background: transparent url("/img/ornaments/pot2.svg") center/contain no-repeat; }
+  .contact-banner .contact-info-column .prose-wrap {
+    position: relative; }
 
 @media print, screen and (min-width: 40em) {
   .contact-banner .prose-column .prose-wrap p {
@@ -8790,6 +8793,18 @@ a[href^="mailto"] {
     padding-bottom: 2.5rem; }
   .contact-banner .contact-info-column {
     padding: 3.75rem 0; } }
+
+.site-colophon {
+  text-align: center;
+  padding: 2rem 0; }
+  .site-colophon a {
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 0.0375rem; }
+    .site-colophon a span {
+      text-decoration: underline; }
+    .site-colophon a:hover {
+      text-decoration: underline; }
 
 .gallery-section {
   padding: 5rem 0;
