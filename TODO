@@ -3,7 +3,7 @@ Todos:
 	✔	Ensure all scss matches latest version so compiles successfully @done (22-01-11 09:59)
 	✔	Update jquery to 3.5.1 to match official zurb build @done (22-01-11 09:59)
 	☐	optimize all images
-	☐	add final contact banner with colophon link
+	✔	add final contact banner with colophon link @done (22-04-27 12:48)
 	☐	Confirm all links
 	☐	finalize logo placement and size
 	☐	remove "one/two" temporary nav bar
