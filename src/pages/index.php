@@ -43,7 +43,7 @@ body-class: index
 			</div>
 			<div class="large-5 columns contact-info-column">
 				<div class="prose-wrap float-center">
-					<p class="h3 font-weight-bold text-center">713-864-5300 <br>lissette@greencaretx.com</p>
+					<p class="h3 font-weight-bold text-center"><a href="tel:+1-713-864-5300">713-864-5300</a> <br>lissette@greencaretx.com</p>
 				</div>
 			</div>
 		</div>
