@@ -7346,19 +7346,6 @@
       "plM" : 3758088159,
       "prP" : 0
     },
-    "\/img\/ornaments\/philo-shadow.png" : {
-      "ft" : 32768,
-      "iS" : 2924008,
-      "oA" : 1,
-      "oAP" : "\/img\/ornaments\/philo-shadow.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/img\/ornaments\/philo-shadow2.png" : {
       "ft" : 32768,
       "iS" : 38885,
