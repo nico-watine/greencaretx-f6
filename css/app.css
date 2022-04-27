@@ -8826,6 +8826,9 @@ ol.list-upper-roman {
 .scheduling-banner {
   background: #654111;
   color: #fff; }
+  .scheduling-banner.light-banner {
+    background: #ded8cc;
+    color: #0a0a0a; }
   .scheduling-banner .prose-wrap {
     max-width: 25rem;
     margin-bottom: 2.5rem; }

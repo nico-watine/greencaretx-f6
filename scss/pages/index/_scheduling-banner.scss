@@ -1,4 +1,9 @@
 .scheduling-banner {
+	&.light-banner {
+		background: #ded8cc;
+		color: $black;
+	}
+
 	background: $gctx-brown;
 	color: #fff;
 

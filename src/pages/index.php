@@ -34,7 +34,7 @@ body-class: index
 </div>
 
 <div id="main-content-section" data-magellan-target="main-content-section">
-	<section class="scheduling-banner py-40">
+	<section class="scheduling-banner light-banner py-40">
 		<div class="row">
 			<div class="large-7 columns">
 				<div class="prose-wrap float-center large-float-right">
