@@ -36,12 +36,12 @@ body-class: index
 <div id="main-content-section" data-magellan-target="main-content-section">
 	<section class="scheduling-banner light-banner">
 		<div class="row">
-			<div class="large-7 columns pt-40">
+			<div class="large-7 columns prose-column">
 				<div class="prose-wrap float-center large-float-right">
 					<p class="h4 scheduling-prose">To schedule an appointment and next-day quote, please call or email our office administrator, Lissette&nbsp;Martinez.</p>
 				</div>
 			</div>
-			<div class="large-5 columns py-40 contact-info-column">
+			<div class="large-5 columns contact-info-column">
 				<div class="float-center">
 					<p class="h3 font-weight-bold text-center">713-864-5300 <br>lissette@greencaretx.com</p>
 				</div>

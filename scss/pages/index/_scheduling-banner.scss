@@ -16,7 +16,12 @@
 		}
 	}
 
+	.prose-column {
+		padding-top: rem-calc(40);
+	}
+
 	.contact-info-column {
+		padding: rem-calc(40 0);
 		background: transparent url('/img/ornaments/flower-bg.png') center/contain no-repeat;
 	}
 }
