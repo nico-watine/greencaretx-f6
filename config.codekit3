@@ -7362,6 +7362,36 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/ornaments\/pot.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/ornaments\/pot.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
+    },
+    "\/img\/ornaments\/pot2.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/ornaments\/pot2.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
+    },
+    "\/img\/ornaments\/pot3.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/ornaments\/pot3.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
+    },
     "\/js\/app-min.js" : {
       "bF" : 0,
       "ft" : 64,
