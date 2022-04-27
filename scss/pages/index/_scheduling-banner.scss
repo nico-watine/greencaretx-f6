@@ -36,11 +36,3 @@
 		}
 	}
 }
-
-@include breakpoint(large) {
-	.scheduling-banner {
-		.prose-wrap {
-			margin-bottom: 0;
-		}
-	}
-}

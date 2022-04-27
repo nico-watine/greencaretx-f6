@@ -8845,10 +8845,6 @@ ol.list-upper-roman {
     .scheduling-banner .prose-wrap p.scheduling-prose {
       padding: 0; } }
 
-@media print, screen and (min-width: 64em) {
-  .scheduling-banner .prose-wrap {
-    margin-bottom: 0; } }
-
 .people-plants-slogan-section {
   background: #fafafa url("/img/background-images/auditorium.jpg") center/cover no-repeat;
   height: 31.25rem;
