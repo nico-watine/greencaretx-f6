@@ -41,7 +41,7 @@ body-class: index
 					<p class="h4 scheduling-prose">To schedule an appointment and next-day quote, please call or email our office administrator, Lissette&nbsp;Martinez.</p>
 				</div>
 			</div>
-			<div class="large-5 columns py-40">
+			<div class="large-5 columns py-40 contact-info-column">
 				<div class="float-center">
 					<p class="h3 font-weight-bold text-center">713-864-5300 <br>lissette@greencaretx.com</p>
 				</div>
