@@ -10,7 +10,10 @@ body-class: index
 ---
 <div class="hero-full-screen">
 	<div class="logo-wrap">
-		<img class="logo" src="/img/logo/greencaretx-logo.svg" alt="logo">
+		<h1 class="text-hide">
+			<img class="logo" src="/img/logo/greencaretx-logo.svg" alt="logo">
+			Greencare Interior Plants
+		</h1>
 	</div>
 	<div class="prose-wrap">
 		<h1 class="headline">Servicing Plants <br><span>Serving People</span></h1>
