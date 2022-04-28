@@ -11,7 +11,7 @@ body-class: index
 <div class="hero-full-screen">
 	<div class="logo-wrap">
 		<h1 class="text-hide">
-			<img class="logo" src="/img/logo/greencaretx-logo.svg" alt="logo">
+			<img class="logo" src="/img/logo/greencaretx-logo.svg" title="Greencare Interior Plants logo" alt="Greencare Interior Plants logo">
 			Greencare Interior Plants
 		</h1>
 	</div>
