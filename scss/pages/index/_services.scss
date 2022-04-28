@@ -29,6 +29,13 @@
 
 		.button {
 			background-color: $gctx-brown;
+			border: 3px solid $gctx-brown;
+
+			&:hover {
+				background-color: #ded8cc;
+				color: #000;
+				border-color: #000;
+			}
 		}
 	}
 

@@ -12518,6 +12518,13 @@ a[href^="mailto"] {
 
 .services-section .service-option-card .button {
   background-color: #654111;
+  border: 3px solid #654111;
+}
+
+.services-section .service-option-card .button:hover {
+  background-color: #ded8cc;
+  color: #000;
+  border-color: #000;
 }
 
 .services-section .h3.section-heading {
