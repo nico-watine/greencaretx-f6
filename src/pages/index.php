@@ -11,15 +11,6 @@ body-class: index
 <div class="hero-full-screen">
 
 	<div class="top-content-section">
-		<!-- <div class="top-bar">
-			<div class="top-bar-left">
-				<ul class="menu">
-					<li class="menu-text"><img src="/img/logo/greencaretx-logo.svg" alt="logo" style="width: 100px;"></li>
-					<li><a href="#">One</a></li>
-					<li><a href="#">Two</a></li>
-				</ul>
-			</div>
-		</div> -->
 		<img class="logo" src="/img/logo/greencaretx-logo.svg" alt="logo">
 	</div>
 
