@@ -12,11 +12,37 @@
 	<link href="{{ tld-url }}{{ url }}" rel="canonical">
 	<link href="/humans.txt" rel="author">
 
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="{{ og-title }}">
+	<meta property="og:description" content="{{ og-description }}">
+	<meta property="og:url" content="https://greencaretx.com{{ url }}">
+	<meta property="og:site_name" content="Greencare Interior Plants - Houston, TX">
+	<meta property="og:image" content="https://greencaretx.com{{ og-image}}">
+	<!-- <meta property="fb:app_id" content="1681974038799263"> -->
+
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<!-- Every single font weight and style in Montserrat family -->
-	<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap" rel="stylesheet">
 
+	<script type="application/ld+json">
+	{
+	  "@context": "http://schema.org",
+	  "@type": "LocalBusiness",
+	  "name": "Greencare Interior Plants",
+	  "logo": "https://greencaretx.com/img/schema/greencare-logo.png",
+	  "description": "Interior plant design &amp; maintenance services for commercial and residential accounts in the Greater Houston area.",
+	  "url" : "https://greencaretx.com",
+	  "telephone": "713-864-5300",
+	  "address": {
+		"@type": "PostalAddress",
+		"addressLocality": "Houston",
+		"addressRegion": "TX",
+		"postalCode": "77009",
+		"streetAddress": "3901 Billingsley St"
+	  }
+	}
+	</script>
 
 	<link href="{{ cdn }}<?php autoVer('/css/app.css'); ?>" rel="stylesheet">
 
