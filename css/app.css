@@ -8834,10 +8834,15 @@ a[href^="mailto"] {
     position: relative; }
     .hero-full-screen .top-content-section img.logo {
       position: absolute;
-      max-height: 100%;
-      width: auto;
-      padding-top: 16px;
-      padding-left: 16px; }
+      width: 100px;
+      top: 16px;
+      left: 16px; }
+      @media screen and (min-width: 26.25em) {
+        .hero-full-screen .top-content-section img.logo {
+          width: 140px; } }
+      @media print, screen and (min-width: 40em) {
+        .hero-full-screen .top-content-section img.logo {
+          width: 160px; } }
   .hero-full-screen .prose-wrap {
     color: #fff;
     text-align: center; }
