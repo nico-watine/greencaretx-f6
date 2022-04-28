@@ -52,7 +52,7 @@ body-class: index
 		</div>
 		<div class="large-6 columns prose-column">
 			<div class="prose-wrap">
-				<h3 class="h3 separator-left">We’re not in the plant business, <br>serving people.</h3>
+				<h3 class="h3 separator-left">We are not in the plant business, <br>serving people.</h3>
 				<h3 class="h3 font-weight-bold font-italic">We are in the people business, <br>servicing plants.</h3>
 			</div>
 		</div>
