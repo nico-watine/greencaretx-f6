@@ -1,9 +1,9 @@
 ---
 url: /
 title: Servicing Plants, Serving People
-description:
-og-title:
-og-description:
+description: Commercial &amp; Residential Indoor Plant Care Services - Call 713-864-5300 for your free consultation and next day quote!
+og-title: Servicing Plants, Serving People
+og-description: Commercial &amp; Residential Indoor Plant Care Services - Call 713-864-5300 for your free consultation and next day quote!
 og-image:
 body-id: index
 body-class: index
