@@ -8023,10 +8023,7 @@ ol.list-upper-roman {
 a[href^="tel"],
 a[href^="mailto"] {
   color: inherit;
-  /* Inherit text color of parent element. */
-  text-decoration: none;
-  /* Remove underline. */
-  /* Additional css `propery: value;` pairs here */ }
+  text-decoration: none; }
 
 .text-black {
   color: #000 !important; }

@@ -1,6 +1,7 @@
+// Style all tel: and mailto: links
+// to match the site's default link styles
 a[href^="tel"],
 a[href^="mailto"] {
-	color: inherit; /* Inherit text color of parent element. */
-	text-decoration: none; /* Remove underline. */
-	/* Additional css `propery: value;` pairs here */
+	color: inherit; // Inherit text color of parent element
+	text-decoration: none; // Remove underline.
 }
