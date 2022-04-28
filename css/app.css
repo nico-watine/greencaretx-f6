@@ -8887,9 +8887,6 @@ a[href^="mailto"] {
       font-weight: bold;
       text-transform: uppercase;
       font-size: 1rem; }
-    .hero-full-screen .button-wrap svg {
-      height: 3.75rem;
-      width: 3.75rem; }
 
 .people-plants-slogan-section {
   background: #fafafa url("/img/background-images/auditorium.jpg") center/cover no-repeat;
