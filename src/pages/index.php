@@ -129,37 +129,37 @@ body-class: index
 	<div id="masonryGrid" class="row small-up-2 medium-up-3">
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/gallery/Greencare-Interior-Plants-1.jpg"><img src="/img/gallery/Greencare-Interior-Plants-1.jpg" alt=""></a>
+				<a href="/img/gallery/Greencare-Interior-Plants-1.jpg"><img src="/img/gallery/Greencare-Interior-Plants-1.jpg" alt="Greencare Interior Plants Gallery Image - 1"></a>
 			</div>
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/gallery/Greencare-Interior-Plants-3.jpg"><img src="/img/gallery/Greencare-Interior-Plants-3.jpg" alt=""></a>
+				<a href="/img/gallery/Greencare-Interior-Plants-3.jpg"><img src="/img/gallery/Greencare-Interior-Plants-3.jpg" alt="Greencare Interior Plants Gallery Image - 2"></a>
 			</div>
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/gallery/Greencare-Interior-Plants-7.jpg"><img src="/img/gallery/Greencare-Interior-Plants-7.jpg" alt=""></a>
+				<a href="/img/gallery/Greencare-Interior-Plants-7.jpg"><img src="/img/gallery/Greencare-Interior-Plants-7.jpg" alt="Greencare Interior Plants Gallery Image - 3"></a>
 			</div>
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/gallery/Greencare-Interior-Plants-4.jpg"><img src="/img/gallery/Greencare-Interior-Plants-4.jpg" alt=""></a>
+				<a href="/img/gallery/Greencare-Interior-Plants-4.jpg"><img src="/img/gallery/Greencare-Interior-Plants-4.jpg" alt="Greencare Interior Plants Gallery Image - 4"></a>
 			</div>
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/gallery/Greencare-Interior-Plants-5.jpg"><img src="/img/gallery/Greencare-Interior-Plants-5.jpg" alt=""></a>
+				<a href="/img/gallery/Greencare-Interior-Plants-5.jpg"><img src="/img/gallery/Greencare-Interior-Plants-5.jpg" alt="Greencare Interior Plants Gallery Image - 5"></a>
 			</div>
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/gallery/Greencare-Interior-Plants-6.jpg"><img src="/img/gallery/Greencare-Interior-Plants-6.jpg" alt=""></a>
+				<a href="/img/gallery/Greencare-Interior-Plants-6.jpg"><img src="/img/gallery/Greencare-Interior-Plants-6.jpg" alt="Greencare Interior Plants Gallery Image - 6"></a>
 			</div>
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/gallery/Greencare-Interior-Plants-2.jpg"><img src="/img/gallery/Greencare-Interior-Plants-2.jpg" alt=""></a>
+				<a href="/img/gallery/Greencare-Interior-Plants-2.jpg"><img src="/img/gallery/Greencare-Interior-Plants-2.jpg" alt="Greencare Interior Plants Gallery Image - 7"></a>
 			</div>
 		</div>
 	</div>
