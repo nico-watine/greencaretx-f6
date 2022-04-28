@@ -12193,6 +12193,13 @@ a[href^="mailto"] {
   top: 16px;
 }
 
+@media screen and (min-width: 53.75em) {
+  .hero-full-screen .header-wrap .contact-icons-wrap {
+    top: 32px;
+    right: 32px;
+  }
+}
+
 .hero-full-screen .prose-wrap {
   color: #fff;
   text-align: center;
