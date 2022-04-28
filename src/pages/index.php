@@ -10,16 +10,8 @@ body-class: index
 ---
 <div class="hero-full-screen">
 
-	<div class="top-content-section">
-		<div class="top-bar">
-			<div class="top-bar-left">
-				<ul class="menu">
-					<li class="menu-text"><img src="/img/logo/greencaretx-logo.svg" alt="logo" style="width: 100px;"></li>
-					<li><a href="#">One</a></li>
-					<li><a href="#">Two</a></li>
-				</ul>
-			</div>
-		</div>
+	<div class="logo-wrap">
+		<img class="logo" src="/img/logo/greencaretx-logo.svg" alt="logo">
 	</div>
 
 	<div class="prose-wrap">
@@ -27,7 +19,7 @@ body-class: index
 		<h2 class="mission-statement float-center">As a family-owned business, providing <span class="display-inline-block">top-tier plant</span> service to ensure your complete satisfaction is our highest&nbsp;priority.</h2>
 	</div>
 
-	<div class="bottom-content-section text-center" data-magellan data-threshold="0">
+	<div class="button-wrap text-center" data-magellan data-threshold="0">
 		<a href="#main-content-section" class="cta button hollow border-rounded" style="font-size: 16px;">Schedule your free consultation</a>
 	</div>
 
