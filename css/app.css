@@ -8834,7 +8834,8 @@ a[href^="mailto"] {
     position: relative; }
     .hero-full-screen .top-content-section img.logo {
       position: absolute;
-      width: 160px;
+      max-height: 100%;
+      width: auto;
       padding-top: 16px;
       padding-left: 16px; }
   .hero-full-screen .prose-wrap {
