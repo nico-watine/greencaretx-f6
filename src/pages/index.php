@@ -24,7 +24,7 @@ body-class: index
 		<h2 class="mission-statement float-center">As a family-owned business, providing <span class="display-inline-block">top-tier plant</span> service to ensure your complete satisfaction is our highest&nbsp;priority.</h2>
 	</div>
 	<div class="button-wrap" data-magellan data-threshold="0">
-		<a href="#main-content-section" class="cta button hollow border-rounded">Schedule your free consultation</a>
+		<a href="#main-content-section" class="cta button">Schedule your free consultation</a>
 	</div>
 </div>
 
