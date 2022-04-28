@@ -46,11 +46,17 @@
 			font-size: rem-calc(36);
 			line-height: 1.2;
 			text-shadow: 0 0 rem-calc(11) rgba(0,0,0,.50);
-			margin-bottom: rem-calc(40);
+			margin-bottom: rem-calc(20);
 
 			span {
 				font-size: rem-calc(50);
 				font-weight: bold;
+			}
+		}
+
+		@include breakpoint(400) {
+			.headline {
+				margin-bottom: rem-calc(40);
 			}
 		}
 

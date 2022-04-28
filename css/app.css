@@ -8845,10 +8845,13 @@ a[href^="mailto"] {
       font-size: 2.25rem;
       line-height: 1.2;
       text-shadow: 0 0 0.6875rem rgba(0, 0, 0, 0.5);
-      margin-bottom: 2.5rem; }
+      margin-bottom: 1.25rem; }
       .hero-full-screen .prose-wrap .headline span {
         font-size: 3.125rem;
         font-weight: bold; }
+    @media screen and (min-width: 25em) {
+      .hero-full-screen .prose-wrap .headline {
+        margin-bottom: 2.5rem; } }
     .hero-full-screen .prose-wrap .mission-statement {
       font-size: 1.25rem;
       text-shadow: 0 0 0.6875rem rgba(0, 0, 0, 0.5);
