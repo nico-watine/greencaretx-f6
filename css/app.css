@@ -8876,16 +8876,16 @@ a[href^="mailto"] {
           font-size: 3.75rem; }
       .hero-full-screen .prose-wrap .mission-statement {
         max-width: 31.25rem; } }
-  .hero-full-screen .bottom-content-section {
+  .hero-full-screen .button-wrap {
     padding: 1rem; }
-    .hero-full-screen .bottom-content-section a.cta {
+    .hero-full-screen .button-wrap a.cta {
       border-color: #fff;
       padding: 1rem 1.5rem;
       line-height: 1.2;
       color: #fff;
       font-weight: bold;
       text-transform: uppercase; }
-    .hero-full-screen .bottom-content-section svg {
+    .hero-full-screen .button-wrap svg {
       height: 3.75rem;
       width: 3.75rem; }
 
