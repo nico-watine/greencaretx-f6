@@ -35,11 +35,21 @@
 			top: 16px;
 			left: 16px;
 
-			@include breakpoint(420) {
+			// @include breakpoint(420) {
+			// 	width: 140px;
+			// }
+
+			@include breakpoint(medium) {
+				// width: 160px;
 				width: 140px;
 			}
 
-			@include breakpoint(medium) {
+			@include breakpoint(860) {
+				top: 32px;
+				left: 32px;
+			}
+
+			@include breakpoint(large) {
 				width: 160px;
 			}
 		}

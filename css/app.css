@@ -8837,10 +8837,14 @@ a[href^="mailto"] {
       width: 100px;
       top: 16px;
       left: 16px; }
-      @media screen and (min-width: 26.25em) {
+      @media print, screen and (min-width: 40em) {
         .hero-full-screen .top-content-section img.logo {
           width: 140px; } }
-      @media print, screen and (min-width: 40em) {
+      @media screen and (min-width: 53.75em) {
+        .hero-full-screen .top-content-section img.logo {
+          top: 32px;
+          left: 32px; } }
+      @media print, screen and (min-width: 64em) {
         .hero-full-screen .top-content-section img.logo {
           width: 160px; } }
   .hero-full-screen .prose-wrap {
