@@ -9,12 +9,16 @@ body-id: index
 body-class: index
 ---
 <div class="hero-full-screen">
-	<div class="logo-wrap">
+	<header class="header-wrap">
 		<h1 class="text-hide">
 			<img class="logo" src="/img/logo/greencaretx-logo.svg" title="Greencare Interior Plants logo" alt="Greencare Interior Plants logo">
 			Greencare Interior Plants
 		</h1>
-	</div>
+		<aside class="contact-icons-wrap" data-magellan data-threshold="0">
+			<a href="#main-content-section"><img class="mr-16" src="/img/icons/phone.svg" title="Call us!" alt="Phone Icon"></a>
+			<a href="#main-content-section"><img src="/img/icons/email.svg" title="Email us!" alt="Email Icon"></a>
+		</aside>
+	</header>
 	<div class="prose-wrap">
 		<h1 class="headline">Servicing Plants <br><span>Serving People</span></h1>
 		<h2 class="mission-statement float-center">As a family-owned business, providing <span class="display-inline-block">top-tier plant</span> service to ensure your complete satisfaction is our highest&nbsp;priority.</h2>
