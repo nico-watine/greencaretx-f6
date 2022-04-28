@@ -10,8 +10,8 @@ body-class: index
 ---
 <div class="hero-full-screen">
 
-	<div class="top-content-section">
-		<div class="top-bar">
+	<div class="top-content-section" style="height: 100px; position: relative;">
+		<!-- <div class="top-bar">
 			<div class="top-bar-left">
 				<ul class="menu">
 					<li class="menu-text"><img src="/img/logo/greencaretx-logo.svg" alt="logo" style="width: 100px;"></li>
@@ -19,7 +19,8 @@ body-class: index
 					<li><a href="#">Two</a></li>
 				</ul>
 			</div>
-		</div>
+		</div> -->
+		<img style="position: absolute; width: 160px; padding-top: 16px; padding-left: 16px;" src="/img/logo/greencaretx-logo.svg" alt="logo">
 	</div>
 
 	<div class="prose-wrap">
