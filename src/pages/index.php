@@ -9,20 +9,16 @@ body-id: index
 body-class: index
 ---
 <div class="hero-full-screen">
-
 	<div class="logo-wrap">
 		<img class="logo" src="/img/logo/greencaretx-logo.svg" alt="logo">
 	</div>
-
 	<div class="prose-wrap">
 		<h1 class="headline">Servicing Plants <br><span>Serving People</span></h1>
 		<h2 class="mission-statement float-center">As a family-owned business, providing <span class="display-inline-block">top-tier plant</span> service to ensure your complete satisfaction is our highest&nbsp;priority.</h2>
 	</div>
-
 	<div class="button-wrap" data-magellan data-threshold="0">
 		<a href="#main-content-section" class="cta button hollow border-rounded">Schedule your free consultation</a>
 	</div>
-
 </div>
 
 <div id="main-content-section" data-magellan-target="main-content-section">
