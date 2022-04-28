@@ -40,6 +40,12 @@
 		.prose-wrap {
 			position: relative;
 		}
+
+		a[href^="mailto"] {
+			&:hover {
+				text-decoration: underline;
+			}
+		}
 	}
 }
 

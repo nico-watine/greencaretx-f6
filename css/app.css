@@ -12313,6 +12313,10 @@ a[href^="mailto"] {
   position: relative;
 }
 
+.contact-banner .contact-info-column a[href^="mailto"]:hover {
+  text-decoration: underline;
+}
+
 @media print, screen and (min-width: 40em) {
   .contact-banner .prose-column .prose-wrap p {
     padding: 0;
