@@ -15,7 +15,7 @@ body-class: index
 			Greencare Interior Plants
 		</h1>
 		<aside class="contact-icons-wrap" data-magellan data-threshold="0">
-			<a href="#main-content-section"><img src="/img/icons/phone.svg" title="Call us!" alt="Phone Icon"></a>
+			<a href="#main-content-section"><img class="mr-16" src="/img/icons/phone.svg" title="Call us!" alt="Phone Icon"></a>
 			<a href="#main-content-section"><img src="/img/icons/email.svg" title="Email us!" alt="Email Icon"></a>
 		</aside>
 	</header>
