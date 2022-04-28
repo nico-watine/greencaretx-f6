@@ -14,6 +14,10 @@ body-class: index
 			<img class="logo" src="/img/logo/greencaretx-logo.svg" title="Greencare Interior Plants logo" alt="Greencare Interior Plants logo">
 			Greencare Interior Plants
 		</h1>
+		<aside class="contact-icons-wrap" data-magellan data-threshold="0">
+			<a href="#main-content-section"><img src="/img/icons/phone.svg" title="Call us!" alt="Phone Icon"></a>
+			<a href="#main-content-section"><img src="/img/icons/email.svg" title="Email us!" alt="Email Icon"></a>
+		</aside>
 	</header>
 	<div class="prose-wrap">
 		<h1 class="headline">Servicing Plants <br><span>Serving People</span></h1>

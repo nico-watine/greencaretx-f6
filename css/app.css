@@ -12187,6 +12187,12 @@ a[href^="mailto"] {
   }
 }
 
+.hero-full-screen .header-wrap .contact-icons-wrap {
+  position: absolute;
+  right: 16px;
+  top: 16px;
+}
+
 .hero-full-screen .prose-wrap {
   color: #fff;
   text-align: center;
