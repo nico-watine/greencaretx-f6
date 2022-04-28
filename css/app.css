@@ -8877,7 +8877,8 @@ a[href^="mailto"] {
       .hero-full-screen .prose-wrap .mission-statement {
         max-width: 31.25rem; } }
   .hero-full-screen .button-wrap {
-    padding: 1rem; }
+    padding: 1rem;
+    text-align: center; }
     .hero-full-screen .button-wrap a.cta {
       border-color: #fff;
       padding: 1rem 1.5rem;
