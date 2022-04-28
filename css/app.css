@@ -12130,145 +12130,6 @@ a[href^="mailto"] {
   min-width: 25%;
 }
 
-.about-us-section {
-  background: #b4b4b4 url("/img/background-images/about-us.jpg") center/cover no-repeat;
-  background-blend-mode: multiply;
-  color: #fff;
-}
-
-@media print, screen and (max-width: 39.99875em) {
-  .about-us-section {
-    background-position: -100px;
-  }
-}
-
-.about-us-section .content {
-  backdrop-filter: blur(10px);
-  padding: 6.25rem 0 7.5rem;
-}
-
-.about-us-section .content .prose-wrap {
-  max-width: 43.125rem;
-  padding: 0 0.5rem;
-}
-
-.about-us-section .content h1 {
-  text-align: center !important;
-  text-shadow: 0 0 16px rgba(0, 0, 0, 0.3);
-  margin-bottom: 2.5rem;
-}
-
-.about-us-section .content h1::before, .about-us-section .content h1::after {
-  display: table;
-  content: ' ';
-  flex-basis: 0;
-  order: 1;
-}
-
-.about-us-section .content h1::after {
-  clear: both;
-}
-
-.about-us-section .content h1::after {
-  position: relative !important;
-  width: 200px;
-  border-bottom: 4px solid #a0cc3a;
-  margin: 0 auto 0;
-}
-
-.about-us-section .content p {
-  text-shadow: 0 0 16px #000;
-  margin-bottom: 1.25rem;
-}
-
-.contact-banner.light-banner {
-  background: #ded8cc;
-  color: #0a0a0a;
-}
-
-.contact-banner.dark-banner {
-  background: #654111;
-  color: #fff;
-}
-
-.contact-banner .prose-column {
-  padding-top: 2.5rem;
-}
-
-.contact-banner .prose-column .prose-wrap {
-  max-width: 25rem;
-}
-
-.contact-banner .prose-column .prose-wrap p {
-  padding: 0 1rem;
-}
-
-.contact-banner .contact-info-column {
-  position: relative;
-  padding: 2.5rem 0;
-}
-
-.contact-banner .contact-info-column:before {
-  content: ' ';
-  display: block;
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  opacity: .7;
-  background: transparent url("/img/ornaments/flower-pot.svg") center/contain no-repeat;
-}
-
-.contact-banner .contact-info-column .prose-wrap {
-  position: relative;
-}
-
-@media print, screen and (min-width: 40em) {
-  .contact-banner .prose-column .prose-wrap p {
-    padding: 0;
-  }
-}
-
-@media print, screen and (min-width: 64em) {
-  .contact-banner .prose-column {
-    padding-bottom: 2.5rem;
-  }
-  .contact-banner .contact-info-column {
-    padding: 3.75rem 0;
-  }
-}
-
-.site-colophon {
-  text-align: center;
-  padding: 2rem 0;
-}
-
-.site-colophon a {
-  color: #fff;
-  text-transform: uppercase;
-  letter-spacing: 0.0375rem;
-}
-
-.site-colophon a span {
-  text-decoration: underline;
-}
-
-.site-colophon a:hover {
-  text-decoration: underline;
-}
-
-.gallery-section {
-  padding: 5rem 0;
-  background: #eee;
-}
-
-.gallery-section #masonryGrid .tile .tileBase {
-  border: 0.25rem solid #654111;
-  border-radius: 1.5rem;
-  overflow: hidden;
-}
-
 .hero-full-screen {
   height: 37.5rem;
   display: flex;
@@ -12387,6 +12248,83 @@ a[href^="mailto"] {
   font-weight: bold;
   text-transform: uppercase;
   font-size: 1rem;
+}
+
+.contact-banner.light-banner {
+  background: #ded8cc;
+  color: #0a0a0a;
+}
+
+.contact-banner.dark-banner {
+  background: #654111;
+  color: #fff;
+}
+
+.contact-banner .prose-column {
+  padding-top: 2.5rem;
+}
+
+.contact-banner .prose-column .prose-wrap {
+  max-width: 25rem;
+}
+
+.contact-banner .prose-column .prose-wrap p {
+  padding: 0 1rem;
+}
+
+.contact-banner .contact-info-column {
+  position: relative;
+  padding: 2.5rem 0;
+}
+
+.contact-banner .contact-info-column:before {
+  content: ' ';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: .7;
+  background: transparent url("/img/ornaments/flower-pot.svg") center/contain no-repeat;
+}
+
+.contact-banner .contact-info-column .prose-wrap {
+  position: relative;
+}
+
+@media print, screen and (min-width: 40em) {
+  .contact-banner .prose-column .prose-wrap p {
+    padding: 0;
+  }
+}
+
+@media print, screen and (min-width: 64em) {
+  .contact-banner .prose-column {
+    padding-bottom: 2.5rem;
+  }
+  .contact-banner .contact-info-column {
+    padding: 3.75rem 0;
+  }
+}
+
+.site-colophon {
+  text-align: center;
+  padding: 2rem 0;
+}
+
+.site-colophon a {
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 0.0375rem;
+}
+
+.site-colophon a span {
+  text-decoration: underline;
+}
+
+.site-colophon a:hover {
+  text-decoration: underline;
 }
 
 .people-plants-slogan-section {
@@ -12628,6 +12566,68 @@ a[href^="mailto"] {
     font-size: 1.25rem;
     line-height: 1.6;
   }
+}
+
+.gallery-section {
+  padding: 5rem 0;
+  background: #eee;
+}
+
+.gallery-section #masonryGrid .tile .tileBase {
+  border: 0.25rem solid #654111;
+  border-radius: 1.5rem;
+  overflow: hidden;
+}
+
+.about-us-section {
+  background: #b4b4b4 url("/img/background-images/about-us.jpg") center/cover no-repeat;
+  background-blend-mode: multiply;
+  color: #fff;
+}
+
+@media print, screen and (max-width: 39.99875em) {
+  .about-us-section {
+    background-position: -100px;
+  }
+}
+
+.about-us-section .content {
+  backdrop-filter: blur(10px);
+  padding: 6.25rem 0 7.5rem;
+}
+
+.about-us-section .content .prose-wrap {
+  max-width: 43.125rem;
+  padding: 0 0.5rem;
+}
+
+.about-us-section .content h1 {
+  text-align: center !important;
+  text-shadow: 0 0 16px rgba(0, 0, 0, 0.3);
+  margin-bottom: 2.5rem;
+}
+
+.about-us-section .content h1::before, .about-us-section .content h1::after {
+  display: table;
+  content: ' ';
+  flex-basis: 0;
+  order: 1;
+}
+
+.about-us-section .content h1::after {
+  clear: both;
+}
+
+.about-us-section .content h1::after {
+  position: relative !important;
+  width: 200px;
+  border-bottom: 4px solid #a0cc3a;
+  margin: 0 auto 0;
+}
+
+.about-us-section .content p {
+  text-shadow: 0 0 16px #000;
+  margin-bottom: 1.25rem;
 }
 
 .mfp-bg {
