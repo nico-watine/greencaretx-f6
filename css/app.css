@@ -12155,13 +12155,13 @@ a[href^="mailto"] {
   }
 }
 
-.hero-full-screen .logo-wrap {
+.hero-full-screen .header-wrap {
   width: 100%;
   height: 100px;
   position: relative;
 }
 
-.hero-full-screen .logo-wrap img.logo {
+.hero-full-screen .header-wrap img.logo {
   position: absolute;
   width: 100px;
   top: 16px;
@@ -12169,20 +12169,20 @@ a[href^="mailto"] {
 }
 
 @media print, screen and (min-width: 40em) {
-  .hero-full-screen .logo-wrap img.logo {
+  .hero-full-screen .header-wrap img.logo {
     width: 140px;
   }
 }
 
 @media screen and (min-width: 53.75em) {
-  .hero-full-screen .logo-wrap img.logo {
+  .hero-full-screen .header-wrap img.logo {
     top: 32px;
     left: 32px;
   }
 }
 
 @media print, screen and (min-width: 64em) {
-  .hero-full-screen .logo-wrap img.logo {
+  .hero-full-screen .header-wrap img.logo {
     width: 160px;
   }
 }
