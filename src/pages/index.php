@@ -10,7 +10,7 @@ body-class: index
 ---
 <div class="hero-full-screen">
 
-	<div class="top-content-section">
+	<div class="logo-wrap">
 		<img class="logo" src="/img/logo/greencaretx-logo.svg" alt="logo">
 	</div>
 

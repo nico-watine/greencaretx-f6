@@ -8828,24 +8828,24 @@ a[href^="mailto"] {
   @media screen and (min-width: 100em) {
     .hero-full-screen {
       max-height: 56.25rem; } }
-  .hero-full-screen .top-content-section {
+  .hero-full-screen .logo-wrap {
     width: 100%;
     height: 100px;
     position: relative; }
-    .hero-full-screen .top-content-section img.logo {
+    .hero-full-screen .logo-wrap img.logo {
       position: absolute;
       width: 100px;
       top: 16px;
       left: 16px; }
       @media print, screen and (min-width: 40em) {
-        .hero-full-screen .top-content-section img.logo {
+        .hero-full-screen .logo-wrap img.logo {
           width: 140px; } }
       @media screen and (min-width: 53.75em) {
-        .hero-full-screen .top-content-section img.logo {
+        .hero-full-screen .logo-wrap img.logo {
           top: 32px;
           left: 32px; } }
       @media print, screen and (min-width: 64em) {
-        .hero-full-screen .top-content-section img.logo {
+        .hero-full-screen .logo-wrap img.logo {
           width: 160px; } }
   .hero-full-screen .prose-wrap {
     color: #fff;
