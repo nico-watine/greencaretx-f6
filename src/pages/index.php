@@ -20,7 +20,7 @@ body-class: index
 	</div>
 
 	<div class="button-wrap" data-magellan data-threshold="0">
-		<a href="#main-content-section" class="cta button hollow border-rounded" style="font-size: 16px;">Schedule your free consultation</a>
+		<a href="#main-content-section" class="cta button hollow border-rounded">Schedule your free consultation</a>
 	</div>
 
 </div>
