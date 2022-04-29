@@ -87,7 +87,7 @@ body-class: index
 				<div class="service-option-card flex-container flex-dir-column">
 					<h3 class="h3 font-weight-bold">Service your existing plants</h3>
 					<div class="flex-child-auto position-relative">
-						<p class="absolute-center width-100">If you happen to already have your own plants, we can take over their guaranteed maintenance.</p>
+						<p id="own-plants" class="absolute-center width-100">If you happen to already own plants, we can take over their guaranteed maintenance.</p>
 					</div>
 					<a href="#contact-banner" class="m-0 button large font-weight-bold mt-20 mb-0 border-rounded">Request Quote</a>
 				</div>

@@ -12639,6 +12639,9 @@ a[href^="mailto"] {
     font-size: 1.25rem;
     line-height: 1.6;
   }
+  .services-section .service-option-card p#own-plants {
+    margin-top: -1.25rem;
+  }
 }
 
 .gallery-section {
