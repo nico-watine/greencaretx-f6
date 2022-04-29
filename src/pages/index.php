@@ -63,7 +63,7 @@ body-class: index
 
 	<div class="grid-container service-options-grid">
 		<h1 class="font-weight-bold text-center text-white mb-40">Our Services</h1>
-		<h2 class="h2 section-heading font-weight-bold text-center mb-40 float-center">We offer 3 options to best suit your needs</h2>
+		<h2 class="h2 section-heading font-weight-bold text-center float-center">We offer 3 options to best suit your needs</h2>
 		<div class="grid-x grid-padding-x" data-magellan data-threshold="0">
 			<div class="cell medium-4">
 				<div class="service-option-card flex-container flex-dir-column">
