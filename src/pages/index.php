@@ -59,7 +59,7 @@ body-class: index
 	</div>
 </section>
 <br>
-<section class="services-section">
+<section class="services-section safe-padding-inset">
 
 	<div class="grid-container service-options-grid">
 		<h1 class="font-weight-bold text-center text-white mb-40">Our Services</h1>
