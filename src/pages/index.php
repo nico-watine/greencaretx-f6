@@ -60,8 +60,10 @@ body-class: index
 </section>
 <br>
 <section class="services-section">
+
 	<div class="grid-container service-options-grid">
-		<h2 class="h2 section-heading font-weight-bold text-center mb-40 float-center">We offer 3 options to best suit your needs</h2>
+		<h1 class="font-weight-bold text-center text-white mb-40">Our Services</h1>
+		<h2 class="h2 section-heading font-weight-bold text-center float-center">We offer 3 options to best suit your needs</h2>
 		<div class="grid-x grid-padding-x" data-magellan data-threshold="0">
 			<div class="cell medium-4">
 				<div class="service-option-card flex-container flex-dir-column">
@@ -85,7 +87,7 @@ body-class: index
 				<div class="service-option-card flex-container flex-dir-column">
 					<h3 class="h3 font-weight-bold">Service your existing plants</h3>
 					<div class="flex-child-auto position-relative">
-						<p class="absolute-center width-100">If you happen to already have your own plants, we can take over their guaranteed maintenance.</p>
+						<p id="own-plants" class="absolute-center width-100">If you happen to already own plants, we can take over their guaranteed maintenance.</p>
 					</div>
 					<a href="#contact-banner" class="m-0 button large font-weight-bold mt-20 mb-0 border-rounded">Request Quote</a>
 				</div>
