@@ -12499,9 +12499,32 @@ a[href^="mailto"] {
   margin-bottom: 1.25rem;
 }
 
+.services-section h1 {
+  text-align: center !important;
+}
+
+.services-section h1::before, .services-section h1::after {
+  display: table;
+  content: ' ';
+  flex-basis: 0;
+  order: 1;
+}
+
+.services-section h1::after {
+  clear: both;
+}
+
+.services-section h1::after {
+  position: relative !important;
+  width: 140px;
+  border-bottom: 4px solid #fff;
+  margin: 0 auto 0;
+}
+
 .services-section .h2.section-heading {
   max-width: 23.75rem;
   color: #fff;
+  margin-bottom: 1.25rem;
 }
 
 .services-section .service-option-card {
@@ -12550,8 +12573,27 @@ a[href^="mailto"] {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
+  .services-section h1 {
+    text-align: center !important;
+  }
+  .services-section h1::before, .services-section h1::after {
+    display: table;
+    content: ' ';
+    flex-basis: 0;
+    order: 1;
+  }
+  .services-section h1::after {
+    clear: both;
+  }
+  .services-section h1::after {
+    position: relative !important;
+    width: 200px;
+    border-bottom: 4px solid #fff;
+    margin: 0 auto 0;
+  }
   .services-section .h2.section-heading {
     max-width: 27.5rem;
+    margin-bottom: 2.5rem;
   }
   .services-section .service-option-card {
     height: 28.125rem;
@@ -12596,6 +12638,9 @@ a[href^="mailto"] {
   .services-section .service-option-card p {
     font-size: 1.25rem;
     line-height: 1.6;
+  }
+  .services-section .service-option-card p#own-plants {
+    margin-top: -1.25rem;
   }
 }
 
