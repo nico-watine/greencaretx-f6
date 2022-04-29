@@ -7,6 +7,10 @@
 		margin-bottom: rem-calc(20);
 	}
 
+	h1 {
+		@include separator(center, 4px, 140px, #fff, 0);
+	}
+
 	.h2.section-heading {
 		max-width: rem-calc(380);
 		color: #fff;
@@ -58,6 +62,10 @@
 	.services-section {
 		padding-top: rem-calc(80);
 		padding-bottom: rem-calc(80);
+
+		h1 {
+			@include separator(center, 4px, 200px, #fff, 0);
+		}
 
 		.h2.section-heading {
 			max-width: rem-calc(440);
