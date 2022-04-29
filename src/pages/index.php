@@ -8,7 +8,7 @@ og-image:
 body-id: index
 body-class: index
 ---
-<div class="hero-full-screen">
+<div class="hero-full-screen safe-padding-inset">
 	<header class="header-wrap">
 		<h1 class="text-hide">
 			<img class="logo" src="/img/logo/greencaretx-logo.svg" title="Greencare Interior Plants logo" alt="Greencare Interior Plants logo">
@@ -59,7 +59,7 @@ body-class: index
 	</div>
 </section>
 <br>
-<section class="services-section">
+<section class="services-section safe-padding-inset">
 
 	<div class="grid-container service-options-grid">
 		<h1 class="font-weight-bold text-center text-white mb-40">Our Services</h1>
