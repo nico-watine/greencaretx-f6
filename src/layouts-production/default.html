@@ -51,7 +51,7 @@
 </head>
 <body id="{{ body-id }}" class="{{ body-class }}">
 
-
+{{> google-analytics}}
 
 {{> body}}
 
@@ -62,8 +62,6 @@
 <script src="{{ cdn }}<?php autoVer('/js/app-min.js'); ?>"></script>
 
 {{> scripts-tag}}
-
-{{> google-tracking-id}}
 
 </body>
 </html>
