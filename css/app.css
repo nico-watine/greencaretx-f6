@@ -12666,6 +12666,35 @@ a[href^="mailto"] {
   }
 }
 
+@media print, screen and (min-width: 40em) {
+  .hip-section .content-wrap {
+    padding-left: 5rem;
+  }
+}
+
+@media screen and (min-width: 75em) {
+  .hip-section .content-wrap {
+    padding-left: 0;
+  }
+}
+
+.hip-section .heading-wrap {
+  max-width: 26.25rem;
+}
+
+@media print, screen and (max-width: 39.99875em) {
+  .hip-section .heading-wrap {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media print, screen and (min-width: 40em) {
+  .hip-section .heading-wrap {
+    max-width: 568px;
+  }
+}
+
 .hip-section h2 {
   text-align: left !important;
   text-shadow: 0 0 32px rgba(0, 0, 0, 0.8);
@@ -12692,7 +12721,21 @@ a[href^="mailto"] {
 }
 
 .hip-section .prose-wrap {
+  max-width: 26.25rem;
   margin-bottom: 2.5rem;
+}
+
+@media print, screen and (max-width: 39.99875em) {
+  .hip-section .prose-wrap {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media print, screen and (min-width: 40em) {
+  .hip-section .prose-wrap {
+    max-width: 468px;
+  }
 }
 
 .hip-section p {
@@ -12700,8 +12743,19 @@ a[href^="mailto"] {
   margin-bottom: 1rem;
 }
 
+.hip-section .button-wrap {
+  max-width: 26.25rem;
+}
+
+@media print, screen and (max-width: 39.99875em) {
+  .hip-section .button-wrap {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 .hip-section a.button {
-  padding: 1rem 1.5rem;
+  padding: 1rem;
   line-height: 1;
   color: #000;
   font-weight: bold;
@@ -12712,9 +12766,17 @@ a[href^="mailto"] {
   border: 3px solid #fff;
 }
 
-.hip-section a.button:hover {
-  background: #fff;
-  color: #000;
+.hip-section a.button span {
+  display: none;
+}
+
+@media print, screen and (min-width: 40em) {
+  .hip-section a.button {
+    padding: 1rem 1.5rem;
+  }
+  .hip-section a.button span {
+    display: inline;
+  }
 }
 
 .gallery-section {

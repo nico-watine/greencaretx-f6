@@ -11,15 +11,17 @@ body-class: index
 <section class="hip-section">
 	<div class="row">
 		<div class="column">
-			<div class="heading-wrap" style="max-width: 568px;">
-				<h2 class="h2 text-white font-weight-bold">Houston’s original online interior plants store</h2>
-			</div>
-			<div class="prose-wrap" style="max-width: 468px;">
-				<p class="h4 text-white">Interested in purchasing home or office plants without maintenance services?</p>
-				<p class="h4 text-white">We’ve got you covered.</p>
-			</div>
-			<div class="button-wrap py-16">
-				<a href="https://houstoninteriorplants.com" class="button">www.HoustonInteriorPlants.com</a>
+			<div class="content-wrap">
+				<div class="heading-wrap">
+					<h2 class="h2 text-white font-weight-bold">Houston’s original online interior plants store</h2>
+				</div>
+				<div class="prose-wrap">
+					<p class="h4 text-white">Interested in purchasing home or office plants without maintenance services?</p>
+					<p class="h4 text-white">We’ve got you covered.</p>
+				</div>
+				<div class="button-wrap py-16">
+					<a href="https://houstoninteriorplants.com" class="button"><span>www.</span>HoustonInteriorPlants.com</a>
+				</div>
 			</div>
 		</div>
 	</div>
