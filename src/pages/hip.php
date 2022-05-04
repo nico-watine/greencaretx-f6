@@ -11,10 +11,10 @@ body-class: index
 <section class="hip-section">
 	<div class="row">
 		<div class="column">
-			<div class="heading-wrap" style="max-width: 568px;">
+			<div class="heading-wrap">
 				<h2 class="h2 text-white font-weight-bold">Houston’s original online interior plants store</h2>
 			</div>
-			<div class="prose-wrap" style="max-width: 468px;">
+			<div class="prose-wrap">
 				<p class="h4 text-white">Interested in purchasing home or office plants without maintenance services?</p>
 				<p class="h4 text-white">We’ve got you covered.</p>
 			</div>

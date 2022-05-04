@@ -22,8 +22,21 @@
 		margin-bottom: rem-calc(40);
 	}
 
+	.heading-wrap {
+		max-width: rem-calc(420);
+
+		@include breakpoint(medium) {
+			max-width: 568px;
+		}
+	}
+
 	.prose-wrap {
+		max-width: rem-calc(420);
 		margin-bottom: rem-calc(40);
+
+		@include breakpoint(medium) {
+			max-width: 468px;
+		}
 	}
 
 	p {

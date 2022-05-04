@@ -12691,8 +12691,25 @@ a[href^="mailto"] {
   margin-left: 0 !important;
 }
 
+.hip-section .heading-wrap {
+  max-width: 26.25rem;
+}
+
+@media print, screen and (min-width: 40em) {
+  .hip-section .heading-wrap {
+    max-width: 568px;
+  }
+}
+
 .hip-section .prose-wrap {
+  max-width: 26.25rem;
   margin-bottom: 2.5rem;
+}
+
+@media print, screen and (min-width: 40em) {
+  .hip-section .prose-wrap {
+    max-width: 468px;
+  }
 }
 
 .hip-section p {
