@@ -8,3 +8,8 @@ og-image:
 body-id: index
 body-class: index
 ---
+<section class="hip-section" style="padding-top: 80px; padding-bottom: 80px;">
+	<div class="row">
+		&nbsp;
+	</div>
+</section>

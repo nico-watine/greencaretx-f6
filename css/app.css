@@ -12651,6 +12651,11 @@ a[href^="mailto"] {
   }
 }
 
+.hip-section {
+  background: linear-gradient(#d8d8d8, #d8d8d8), url("/img/background-images/about-us-lyrata-bg.jpg") center/cover no-repeat;
+  background-blend-mode: multiply;
+}
+
 .gallery-section {
   padding: 5rem 0;
   background: #eee;
