@@ -12770,8 +12770,9 @@ a[href^="mailto"] {
 }
 
 .hip-section a.button:hover {
-  background: transparent;
+  background: #a0cc3a;
   color: #fff;
+  border: 3px solid #a0cc3a;
 }
 
 .hip-section a.button span {
