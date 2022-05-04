@@ -12652,8 +12652,18 @@ a[href^="mailto"] {
 }
 
 .hip-section {
-  background: linear-gradient(#ADADAD, #ADADAD), url("/img/background-images/about-us-lyrata-bg.jpg") center/cover no-repeat;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background: linear-gradient(#adadad, #adadad), url("/img/background-images/about-us-lyrata-bg.jpg") center/cover no-repeat;
   background-blend-mode: multiply;
+}
+
+@media screen and (min-width: 90em) {
+  .hip-section {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: linear-gradient(#adadad, #adadad), url("/img/background-images/hip.jpg") center/cover no-repeat;
+  }
 }
 
 .hip-section h2 {
@@ -12696,7 +12706,7 @@ a[href^="mailto"] {
   color: #000;
   font-weight: bold;
   font-size: 1.125rem;
-  letter-spacing: 0.5px;
+  letter-spacing: .5px;
   border-radius: 5000px !important;
   background: #fff;
   border: 3px solid #fff;

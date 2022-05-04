@@ -8,7 +8,7 @@ og-image:
 body-id: index
 body-class: index
 ---
-<section class="hip-section" style="padding-top: 80px; padding-bottom: 80px;">
+<section class="hip-section">
 	<div class="row">
 		<div class="column">
 			<div class="heading-wrap" style="max-width: 568px;">
