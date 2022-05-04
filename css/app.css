@@ -12695,8 +12695,8 @@ a[href^="mailto"] {
   line-height: 1;
   color: #000;
   font-weight: bold;
+  font-size: 1.125rem;
   letter-spacing: 0.5px;
-  font-size: 1rem;
   border-radius: 5000px !important;
   background: #fff;
   border: 3px solid #fff;
