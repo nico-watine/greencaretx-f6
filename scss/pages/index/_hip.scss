@@ -4,16 +4,16 @@
 	background: linear-gradient(
 	#adadad,
 	#adadad
-	), url('/img/background-images/about-us-lyrata-bg.jpg') center/cover no-repeat;
+	), url('/img/background-images/houston-interior-plants.jpg') center/cover no-repeat;
 	background-blend-mode: multiply;
 
 	@include breakpoint(xxlarge) {
 		padding-top: 100px;
 		padding-bottom: 100px;
-		background: linear-gradient(
-		#adadad,
-		#adadad
-		), url('/img/background-images/hip.jpg') center/cover no-repeat;
+		// background: linear-gradient(
+		// #adadad,
+		// #adadad
+		// ), url('/img/background-images/hip.jpg') center/cover no-repeat;
 	}
 
 	.content-wrap {
