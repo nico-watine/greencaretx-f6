@@ -12656,6 +12656,30 @@ a[href^="mailto"] {
   background-blend-mode: multiply;
 }
 
+.hip-section .h2 {
+  text-align: left !important;
+  margin-bottom: 2.5rem;
+}
+
+.hip-section .h2::before, .hip-section .h2::after {
+  display: table;
+  content: ' ';
+  flex-basis: 0;
+  order: 1;
+}
+
+.hip-section .h2::after {
+  clear: both;
+}
+
+.hip-section .h2::after {
+  position: relative !important;
+  width: 270px;
+  border-bottom: 5px solid #A0CC3A;
+  margin: 12px auto 0;
+  margin-left: 0 !important;
+}
+
 .gallery-section {
   padding: 5rem 0;
   background: #eee;

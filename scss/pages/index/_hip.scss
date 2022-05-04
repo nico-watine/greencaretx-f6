@@ -4,4 +4,9 @@
 	rgba(216,216,216,1.0)
 	), url('/img/background-images/about-us-lyrata-bg.jpg') center/cover no-repeat;
 	background-blend-mode: multiply;
+
+	.h2 {
+		@include separator(left, 5px, 270px, #A0CC3A, 12px);
+		margin-bottom: rem-calc(40);
+	}
 }
