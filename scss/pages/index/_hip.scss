@@ -16,18 +16,18 @@
 		), url('/img/background-images/hip.jpg') center/cover no-repeat;
 	}
 
-	h2 {
-		@include separator(left, 5px, 270px, #a0cc3a, 12px);
-		text-shadow: 0 0 32px rgba(0,0,0,.80);
-		margin-bottom: rem-calc(40);
-	}
-
 	.heading-wrap {
 		max-width: rem-calc(420);
 
 		@include breakpoint(medium) {
 			max-width: 568px;
 		}
+	}
+
+	h2 {
+		@include separator(left, 5px, 270px, #a0cc3a, 12px);
+		text-shadow: 0 0 32px rgba(0,0,0,.80);
+		margin-bottom: rem-calc(40);
 	}
 
 	.prose-wrap {

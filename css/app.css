@@ -12666,6 +12666,16 @@ a[href^="mailto"] {
   }
 }
 
+.hip-section .heading-wrap {
+  max-width: 26.25rem;
+}
+
+@media print, screen and (min-width: 40em) {
+  .hip-section .heading-wrap {
+    max-width: 568px;
+  }
+}
+
 .hip-section h2 {
   text-align: left !important;
   text-shadow: 0 0 32px rgba(0, 0, 0, 0.8);
@@ -12689,16 +12699,6 @@ a[href^="mailto"] {
   border-bottom: 5px solid #a0cc3a;
   margin: 12px auto 0;
   margin-left: 0 !important;
-}
-
-.hip-section .heading-wrap {
-  max-width: 26.25rem;
-}
-
-@media print, screen and (min-width: 40em) {
-  .hip-section .heading-wrap {
-    max-width: 568px;
-  }
 }
 
 .hip-section .prose-wrap {
