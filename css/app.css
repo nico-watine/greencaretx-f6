@@ -12658,6 +12658,7 @@ a[href^="mailto"] {
 
 .hip-section .h2 {
   text-align: left !important;
+  text-shadow: 0 0 32px rgba(0, 0, 0, 0.8);
   margin-bottom: 2.5rem;
 }
 
@@ -12675,9 +12676,14 @@ a[href^="mailto"] {
 .hip-section .h2::after {
   position: relative !important;
   width: 270px;
-  border-bottom: 5px solid #A0CC3A;
+  border-bottom: 5px solid #a0cc3a;
   margin: 12px auto 0;
   margin-left: 0 !important;
+}
+
+.hip-section p {
+  text-shadow: 0 0 24px #000;
+  margin-bottom: 1rem;
 }
 
 .gallery-section {
