@@ -24,39 +24,3 @@ body-class: index
 		</div>
 	</div>
 </section>
-<br>
-<!-- <section class="hip-section" style="padding-top: 80px; padding-bottom: 80px;">
-	<div class="row">
-		<div class="column">
-			<div class="heading-wrap" style="max-width: 568px;">
-				<h2 class="h2 text-white font-weight-bold">Houston’s original online interior plants store</h2>
-			</div>
-			<div class="prose-wrap" style="max-width: 670px;">
-				<p class="h3 text-white">Interested in purchasing home or office plants without maintenance services?</p>
-				<p class="h3 text-white">We’ve got you covered.</p>
-			</div>
-			<div class="button-wrap py-16">
-				<a href="https://houstoninteriorplants.com" class="button mb-0">www.HoustonInteriorPlants.com</a>
-			</div>
-		</div>
-	</div>
-</section>
-<br>
-<section class="hip-section" style="padding-top: 80px; padding-bottom: 80px;">
-	<div class="row">
-		<div class="column">
-			<div class="heading-wrap" style="max-width: 670px;">
-				<h2 class="h1 text-white font-weight-bold">Houston’s original online interior plants store</h2>
-			</div>
-			<div class="prose-wrap" style="max-width: 670px;">
-				<p class="h3 text-white">Interested in purchasing home or office plants without maintenance services?</p>
-				<p class="h3 text-white">We’ve got you covered.</p>
-			</div>
-			<div class="button-wrap py-16">
-				<a href="https://houstoninteriorplants.com" class="button mb-0">www.HoustonInteriorPlants.com</a>
-			</div>
-		</div>
-	</div>
-</section>
-<br>
- -->
