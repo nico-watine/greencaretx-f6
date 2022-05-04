@@ -127,6 +127,25 @@ body-class: index
 		</div>
 	</div>
 </section>
+<section class="hip-section">
+	<div class="row">
+		<div class="column">
+			<div class="content-wrap">
+				<div class="heading-wrap">
+					<h2>Houston’s original online interior plants store</h2>
+				</div>
+				<div class="prose-wrap">
+					<p class="h4">Interested in purchasing home or office plants without maintenance services?</p>
+					<!-- <p class="h4">We’ve got you covered.</p> -->
+					<p class="h4">Our online plant shop has you covered.</p>
+				</div>
+				<div class="button-wrap py-16">
+					<a href="https://houstoninteriorplants.com" class="button"><span>www.</span>HoustonInteriorPlants.com</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
 <section class="gallery-section">
 	<div id="masonryGrid" class="row small-up-2 medium-up-3">
 		<div class="tile column column-block">
