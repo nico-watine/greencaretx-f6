@@ -12701,7 +12701,7 @@ a[href^="mailto"] {
 }
 
 .hip-section a.button {
-  padding: 1rem 1.5rem;
+  padding: 1rem;
   line-height: 1;
   color: #000;
   font-weight: bold;
@@ -12712,9 +12712,22 @@ a[href^="mailto"] {
   border: 3px solid #fff;
 }
 
+.hip-section a.button span {
+  display: none;
+}
+
 .hip-section a.button:hover {
   background: #fff;
   color: #000;
+}
+
+@media print, screen and (min-width: 40em) {
+  .hip-section a.button {
+    padding: 1rem 1.5rem;
+  }
+  .hip-section a.button span {
+    display: inline;
+  }
 }
 
 .gallery-section {
