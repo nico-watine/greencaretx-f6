@@ -136,7 +136,8 @@ body-class: index
 				</div>
 				<div class="prose-wrap">
 					<p class="h4">Interested in purchasing home or office plants without maintenance services?</p>
-					<p class="h4">We’ve got you covered.</p>
+					<!-- <p class="h4">We’ve got you covered.</p> -->
+					<p class="h4">Our online plant shop has you covered.</p>
 				</div>
 				<div class="button-wrap py-16">
 					<a href="https://houstoninteriorplants.com" class="button"><span>www.</span>HoustonInteriorPlants.com</a>
