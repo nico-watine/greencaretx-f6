@@ -16,8 +16,8 @@ body-class: index
 					<h2>Houston’s original online interior plants store</h2>
 				</div>
 				<div class="prose-wrap">
-					<p class="h4 text-white">Interested in purchasing home or office plants without maintenance services?</p>
-					<p class="h4 text-white">We’ve got you covered.</p>
+					<p class="h4">Interested in purchasing home or office plants without maintenance services?</p>
+					<p class="h4">We’ve got you covered.</p>
 				</div>
 				<div class="button-wrap py-16">
 					<a href="https://houstoninteriorplants.com" class="button"><span>www.</span>HoustonInteriorPlants.com</a>

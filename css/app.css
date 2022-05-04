@@ -12743,6 +12743,7 @@ a[href^="mailto"] {
 .hip-section p {
   text-shadow: 0 0 24px #000;
   margin-bottom: 1rem;
+  color: #fff;
 }
 
 .hip-section .button-wrap {
