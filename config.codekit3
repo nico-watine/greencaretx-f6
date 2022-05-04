@@ -7170,19 +7170,6 @@
       "sC" : 0,
       "tS" : 0
     },
-    "\/img\/background-images\/about-us-lyrata-bg.jpg" : {
-      "ft" : 16384,
-      "iS" : 174964,
-      "jF" : 0,
-      "oA" : 1,
-      "oAP" : "\/img\/background-images\/about-us-lyrata-bg.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/img\/background-images\/about-us.jpg" : {
       "ft" : 16384,
       "iS" : 49062,
@@ -7222,12 +7209,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/background-images\/hip.jpg" : {
+    "\/img\/background-images\/houston-interior-plants.jpg" : {
       "ft" : 16384,
       "iS" : 175759,
       "jF" : 0,
       "oA" : 1,
-      "oAP" : "\/img\/background-images\/hip.jpg",
+      "oAP" : "\/img\/background-images\/houston-interior-plants.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
