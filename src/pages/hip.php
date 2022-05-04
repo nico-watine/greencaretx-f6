@@ -18,6 +18,9 @@ body-class: index
 				<p class="h4 text-white">Interested in purchasing home or office plants without maintenance services?</p>
 				<p class="h4 text-white">We’ve got you covered.</p>
 			</div>
+			<div class="button-wrap py-16">
+				<a href="https://houstoninteriorplants.com" class="button mb-0">www.HoustonInteriorPlants.com</a>
+			</div>
 		</div>
 	</div>
 </section>

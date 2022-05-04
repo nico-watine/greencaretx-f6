@@ -11,8 +11,29 @@
 		margin-bottom: rem-calc(40);
 	}
 
+	.prose-wrap {
+		margin-bottom: rem-calc(40);
+	}
+
 	p {
 		text-shadow: 0 0 24px #000;
 		margin-bottom: rem-calc(16);
+	}
+
+	a.button {
+		padding: rem-calc(16 24);
+		line-height: 1;
+		color: #000;
+		font-weight: bold;
+		letter-spacing: 0.5px;
+		font-size: rem-calc(16);
+		border-radius: 5000px !important;
+		background: #fff;
+		border: 3px solid #fff;
+
+		&:hover {
+			background: #fff;
+			color: #000;
+		}
 	}
 }
