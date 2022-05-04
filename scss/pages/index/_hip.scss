@@ -16,7 +16,22 @@
 		), url('/img/background-images/hip.jpg') center/cover no-repeat;
 	}
 
+	.content-wrap {
+		@include breakpoint(medium) {
+			padding-left: rem-calc(80);
+		}
+
+		@include breakpoint(xlarge) {
+			padding-left: 0;
+		}
+	}
+
 	.heading-wrap {
+		@include breakpoint(small only) {
+			margin-left: auto;
+			margin-right: auto;
+		}
+
 		max-width: rem-calc(420);
 
 		@include breakpoint(medium) {
@@ -34,6 +49,11 @@
 		max-width: rem-calc(420);
 		margin-bottom: rem-calc(40);
 
+		@include breakpoint(small only) {
+			margin-left: auto;
+			margin-right: auto;
+		}
+
 		@include breakpoint(medium) {
 			max-width: 468px;
 		}
@@ -42,6 +62,16 @@
 	p {
 		text-shadow: 0 0 24px #000;
 		margin-bottom: rem-calc(16);
+	}
+
+	.button-wrap {
+		max-width: rem-calc(420);
+
+		@include breakpoint(small only) {
+			margin-left: auto;
+			margin-right: auto;
+		}
+		// display: inline-block;
 	}
 
 	a.button {
