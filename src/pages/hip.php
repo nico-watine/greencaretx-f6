@@ -13,7 +13,7 @@ body-class: index
 		<div class="column">
 			<div class="content-wrap">
 				<div class="heading-wrap">
-					<h2 class="h2 text-white font-weight-bold">Houston’s original online interior plants store</h2>
+					<h2>Houston’s original online interior plants store</h2>
 				</div>
 				<div class="prose-wrap">
 					<p class="h4 text-white">Interested in purchasing home or office plants without maintenance services?</p>
