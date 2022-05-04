@@ -10,6 +10,10 @@ body-class: index
 ---
 <section class="hip-section" style="padding-top: 80px; padding-bottom: 80px;">
 	<div class="row">
-		&nbsp;
+		<div class="column">
+			<div class="prose-wrap" style="max-width: 568px;">
+				<h2 class="h2 text-white font-weight-bold">Houston’s original online interior plants store</h2>
+			</div>
+		</div>
 	</div>
 </section>
