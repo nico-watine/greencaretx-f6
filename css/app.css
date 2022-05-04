@@ -12769,6 +12769,11 @@ a[href^="mailto"] {
   border: 3px solid #fff;
 }
 
+.hip-section a.button:hover {
+  background: transparent;
+  color: #fff;
+}
+
 .hip-section a.button span {
   display: none;
 }

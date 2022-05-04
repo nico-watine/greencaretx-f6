@@ -87,6 +87,11 @@
 		background: #fff;
 		border: 3px solid #fff;
 
+		&:hover {
+			background: transparent;
+			color: #fff;
+		}
+
 		span {
 			display: none;
 		}
