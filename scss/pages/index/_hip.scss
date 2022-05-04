@@ -40,7 +40,7 @@
 	}
 
 	h2 {
-		@include separator(left, 5px, 270px, #a0cc3a, 12px);
+		@include separator(left, 5px, 270px, $gctx-green, 12px);
 		text-shadow: 0 0 32px rgba(0,0,0,.80);
 		margin-bottom: rem-calc(40);
 		color: #fff;
