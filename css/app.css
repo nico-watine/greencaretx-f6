@@ -12716,11 +12716,6 @@ a[href^="mailto"] {
   display: none;
 }
 
-.hip-section a.button:hover {
-  background: #fff;
-  color: #000;
-}
-
 @media print, screen and (min-width: 40em) {
   .hip-section a.button {
     padding: 1rem 1.5rem;
