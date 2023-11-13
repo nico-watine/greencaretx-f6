@@ -7,7 +7,7 @@
       "uuidString" : "472B7510-C306-426F-AF80-FB25224303CF"
     }
   ],
-  "creatorBuild" : "34335",
+  "creatorBuild" : "34418",
   "files" : {
     "\/_ignores\/autoprefixer-browser-string.txt" : {
       "cB" : 0,
@@ -611,6 +611,7 @@
       "ft" : 128,
       "jxM" : 0,
       "ma" : 0,
+      "mDT" : 0,
       "mi" : 0,
       "moR" : 0,
       "moT" : 2,
@@ -2627,6 +2628,7 @@
       "ft" : 128,
       "jxM" : 0,
       "ma" : 0,
+      "mDT" : 0,
       "mi" : 0,
       "moR" : 0,
       "moT" : 2,
@@ -4497,44 +4499,6 @@
       "oAP" : "\/bower_components\/jquery\/dist\/jquery.slim.min.map",
       "oF" : 0
     },
-    "\/bower_components\/jquery\/external\/sizzle\/dist\/sizzle.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 0,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/jquery\/external\/sizzle\/dist\/sizzle.js",
-      "oF" : 0,
-      "sC" : 0,
-      "tS" : 0
-    },
-    "\/bower_components\/jquery\/external\/sizzle\/dist\/sizzle.min.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 0,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/jquery\/external\/sizzle\/dist\/sizzle.min.js",
-      "oF" : 0,
-      "sC" : 0,
-      "tS" : 0
-    },
-    "\/bower_components\/jquery\/external\/sizzle\/dist\/sizzle.min.map" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/jquery\/external\/sizzle\/dist\/sizzle.min.map",
-      "oF" : 0
-    },
-    "\/bower_components\/jquery\/external\/sizzle\/LICENSE.txt" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/jquery\/external\/sizzle\/LICENSE.txt",
-      "oF" : 0
-    },
     "\/bower_components\/jquery\/LICENSE.txt" : {
       "cB" : 0,
       "ft" : 8192,
@@ -4892,6 +4856,17 @@
       "sC" : 0,
       "tS" : 0
     },
+    "\/bower_components\/jquery\/src\/core\/var\/rhtml.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 0,
+      "oA" : 2,
+      "oAP" : "\/bower_components\/jquery\/src\/core\/var\/rhtml.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
     "\/bower_components\/jquery\/src\/core\/var\/rsingleTag.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -5031,6 +5006,17 @@
       "mi" : 0,
       "oA" : 2,
       "oAP" : "\/bower_components\/jquery\/src\/css\/var\/rboxStyle.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/bower_components\/jquery\/src\/css\/var\/rcustomProp.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 0,
+      "oA" : 2,
+      "oAP" : "\/bower_components\/jquery\/src\/css\/var\/rcustomProp.js",
       "oF" : 0,
       "sC" : 0,
       "tS" : 0
@@ -5222,28 +5208,6 @@
       "sC" : 0,
       "tS" : 0
     },
-    "\/bower_components\/jquery\/src\/event\/focusin.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 0,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/jquery\/src\/event\/focusin.js",
-      "oF" : 0,
-      "sC" : 0,
-      "tS" : 0
-    },
-    "\/bower_components\/jquery\/src\/event\/support.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 0,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/jquery\/src\/event\/support.js",
-      "oF" : 0,
-      "sC" : 0,
-      "tS" : 0
-    },
     "\/bower_components\/jquery\/src\/event\/trigger.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -5431,17 +5395,6 @@
       "sC" : 0,
       "tS" : 0
     },
-    "\/bower_components\/jquery\/src\/selector-sizzle.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 0,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/jquery\/src\/selector-sizzle.js",
-      "oF" : 0,
-      "sC" : 0,
-      "tS" : 0
-    },
     "\/bower_components\/jquery\/src\/selector.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -5449,6 +5402,28 @@
       "mi" : 0,
       "oA" : 2,
       "oAP" : "\/bower_components\/jquery\/src\/selector.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/bower_components\/jquery\/src\/selector\/contains.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 0,
+      "oA" : 2,
+      "oAP" : "\/bower_components\/jquery\/src\/selector\/contains.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/bower_components\/jquery\/src\/selector\/escapeSelector.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 0,
+      "oA" : 2,
+      "oAP" : "\/bower_components\/jquery\/src\/selector\/escapeSelector.js",
       "oF" : 0,
       "sC" : 0,
       "tS" : 0
@@ -5662,6 +5637,17 @@
       "sC" : 0,
       "tS" : 0
     },
+    "\/bower_components\/jquery\/src\/var\/pop.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 0,
+      "oA" : 2,
+      "oAP" : "\/bower_components\/jquery\/src\/var\/pop.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
     "\/bower_components\/jquery\/src\/var\/push.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -5706,6 +5692,17 @@
       "sC" : 0,
       "tS" : 0
     },
+    "\/bower_components\/jquery\/src\/var\/rtrimCSS.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 0,
+      "oA" : 2,
+      "oAP" : "\/bower_components\/jquery\/src\/var\/rtrimCSS.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
     "\/bower_components\/jquery\/src\/var\/slice.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -5713,6 +5710,28 @@
       "mi" : 0,
       "oA" : 2,
       "oAP" : "\/bower_components\/jquery\/src\/var\/slice.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/bower_components\/jquery\/src\/var\/sort.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 0,
+      "oA" : 2,
+      "oAP" : "\/bower_components\/jquery\/src\/var\/sort.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/bower_components\/jquery\/src\/var\/splice.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 0,
+      "oA" : 2,
+      "oAP" : "\/bower_components\/jquery\/src\/var\/splice.js",
       "oF" : 0,
       "sC" : 0,
       "tS" : 0
@@ -5735,6 +5754,17 @@
       "mi" : 0,
       "oA" : 2,
       "oAP" : "\/bower_components\/jquery\/src\/var\/toString.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/bower_components\/jquery\/src\/var\/whitespace.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 0,
+      "oA" : 2,
+      "oAP" : "\/bower_components\/jquery\/src\/var\/whitespace.js",
       "oF" : 0,
       "sC" : 0,
       "tS" : 0
@@ -6343,25 +6373,6 @@
       "oAP" : "\/bower_components\/motion-ui\/LICENSE",
       "oF" : 0
     },
-    "\/bower_components\/motion-ui\/meteor-README.md" : {
-      "cB" : 0,
-      "cS" : 0,
-      "eF" : 1,
-      "eL" : 1,
-      "ema" : 1,
-      "eSQ" : 1,
-      "ft" : 4096,
-      "hM" : 0,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/motion-ui\/meteor-README.md",
-      "oF" : 0,
-      "oFM" : 0,
-      "oS" : 0,
-      "pHT" : 0,
-      "pME" : 1,
-      "rFN" : 0,
-      "uCM" : 0
-    },
     "\/bower_components\/motion-ui\/motion-ui.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -6387,14 +6398,6 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
-    },
-    "\/bower_components\/motion-ui\/package-lock.json" : {
-      "ft" : 524288,
-      "oA" : 1,
-      "oAP" : "\/bower_components\/motion-ui\/package-lock.json",
-      "oF" : 0,
-      "oO" : 0,
-      "oS" : 1
     },
     "\/bower_components\/motion-ui\/package.js" : {
       "bF" : 0,
@@ -7022,6 +7025,7 @@
       "ft" : 128,
       "jxM" : 0,
       "ma" : 0,
+      "mDT" : 0,
       "mi" : 0,
       "moR" : 0,
       "moT" : 2,
@@ -8408,10 +8412,6 @@
         "active" : 0,
         "optionString" : "'1tbs', {'allowSingleLine': true}"
       },
-      "callback-return" : {
-        "active" : 0,
-        "optionString" : "['callback', 'cb', 'next']"
-      },
       "camelcase" : {
         "active" : 0,
         "optionString" : "{'properties': 'always'}"
@@ -8503,6 +8503,10 @@
         "active" : 0,
         "optionString" : "'expression'"
       },
+      "function-call-argument-newline" : {
+        "active" : 0,
+        "optionString" : "'always'"
+      },
       "function-paren-newline" : {
         "active" : 0,
         "optionString" : "'multiline'"
@@ -8515,9 +8519,6 @@
         "active" : 0,
         "optionString" : "{'allowImplicit': false}"
       },
-      "global-require" : {
-        "active" : 0
-      },
       "grouped-accessor-pairs" : {
         "active" : 0,
         "optionString" : "'anyOrder'"
@@ -8525,11 +8526,7 @@
       "guard-for-in" : {
         "active" : 0
       },
-      "handle-callback-err" : {
-        "active" : 0,
-        "optionString" : "'err'"
-      },
-      "id-blacklist" : {
+      "id-denylist" : {
         "active" : 0,
         "optionString" : "'data', 'err', 'e', 'cb', 'callback'"
       },
@@ -8653,9 +8650,6 @@
         "active" : 0,
         "optionString" : "{'allow': ['~'], 'int32Hint': true}"
       },
-      "no-buffer-constructor" : {
-        "active" : 0
-      },
       "no-caller" : {
         "active" : 0
       },
@@ -8682,6 +8676,9 @@
       },
       "no-const-assign" : {
         "active" : 1
+      },
+      "no-constant-binary-expression" : {
+        "active" : 0
       },
       "no-constant-condition" : {
         "active" : 1,
@@ -8715,6 +8712,9 @@
         "active" : 1
       },
       "no-dupe-keys" : {
+        "active" : 1
+      },
+      "no-duplicate-case" : {
         "active" : 1
       },
       "no-duplicate-imports" : {
@@ -8758,7 +8758,7 @@
       "no-extra-boolean-cast" : {
         "active" : 1
       },
-      "no-extra-labels" : {
+      "no-extra-label" : {
         "active" : 0
       },
       "no-extra-parens" : {
@@ -8846,10 +8846,6 @@
         "active" : 0,
         "optionString" : "{'groups': [['+', '-', '*', '\/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
       },
-      "no-mixed-requires" : {
-        "active" : 0,
-        "optionString" : "{'grouping': false, 'allowCall': false }"
-      },
       "no-mixed-spaces-and-tabs" : {
         "active" : 0,
         "optionString" : ""
@@ -8884,9 +8880,6 @@
       "no-new-object" : {
         "active" : 0
       },
-      "no-new-require" : {
-        "active" : 0
-      },
       "no-new-symbol" : {
         "active" : 1
       },
@@ -8909,18 +8902,9 @@
         "active" : 0,
         "optionString" : "{'props': false}"
       },
-      "no-path-concat" : {
-        "active" : 0
-      },
       "no-plusplus" : {
         "active" : 0,
         "optionString" : "{'allowForLoopAfterthoughts': false}"
-      },
-      "no-process-env" : {
-        "active" : 0
-      },
-      "no-process-exit" : {
-        "active" : 0
       },
       "no-promise-executor-return" : {
         "active" : 0
@@ -8947,9 +8931,6 @@
         "optionString" : "'event', 'fdescribe'"
       },
       "no-restricted-imports" : {
-        "active" : 0
-      },
-      "no-restricted-modules" : {
         "active" : 0,
         "optionString" : ""
       },
@@ -8994,10 +8975,6 @@
       },
       "no-sparse-arrays" : {
         "active" : 1
-      },
-      "no-sync" : {
-        "active" : 0,
-        "optionString" : "{'allowAtRootLevel': false}"
       },
       "no-tabs" : {
         "active" : 0,
@@ -9230,10 +9207,6 @@
       "require-await" : {
         "active" : 0
       },
-      "require-jsdoc" : {
-        "active" : 0,
-        "optionString" : "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
-      },
       "require-unicode-regexp" : {
         "active" : 0
       },
@@ -9318,10 +9291,6 @@
       "use-isnan" : {
         "active" : 1,
         "optionString" : ""
-      },
-      "valid-jsdoc" : {
-        "active" : 0,
-        "optionString" : "{'prefer': {'return': 'returns'}, 'requireReturn': true, 'requireReturnDescription': true, 'requireReturnType': true, 'requireParamDescription': true}"
       },
       "valid-typeof" : {
         "active" : 1,
@@ -9591,6 +9560,7 @@
       "createDeclarationFile" : 0,
       "jsxMode" : 0,
       "minifierStyle" : 0,
+      "moduleDetectionType" : 0,
       "moduleResolutionType" : 0,
       "moduleType" : 2,
       "removeComments" : 0,
@@ -9823,6 +9793,10 @@
         "active" : 0,
         "flagValue" : -1
       },
+      "keep_numbers" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
       "keep_quoted_props" : {
         "active" : 0,
         "flagValue" : -1
@@ -9846,6 +9820,10 @@
       "passes" : {
         "active" : 1,
         "flagValue" : 1
+      },
+      "preserve_annotations" : {
+        "active" : 0,
+        "flagValue" : -1
       },
       "properties" : {
         "active" : 1,
@@ -9949,6 +9927,10 @@
       },
       "webkit" : {
         "active" : 0,
+        "flagValue" : -1
+      },
+      "wrap_func_args" : {
+        "active" : 1,
         "flagValue" : -1
       },
       "wrap_iife" : {
